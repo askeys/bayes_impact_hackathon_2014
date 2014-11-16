@@ -1,3236 +1,3236 @@
-"id","name","rate"
-2188,"Northwest Arctic  ",0
-2261,"Valdez-Cordova Cens ",0
-2100,"Haines  ",0
-2070,"Dillingham Cens ",0
-2110,"Juneau City and  ",0
-2150,"Kodiak Island  ",0
-2198,"Prince of Wales-Hyder Cens ",0
-2050,"Bethel Cens ",0
-2122,"Kenai Peninsula  ",0
-2180,"Nome Cens ",0
-2282,"Yakutat City and  ",0
-2270,"Wade Hampton Cens ",0
-2105,"Hoonah-Angoon Cens ",0
-2240,"Southeast Fairbanks Cens ",0
-2060,"Bristol Bay  ",0
-2090,"Fairbanks North Star  ",0
-2290,"Yukon-Koyukuk Cens ",0
-2020,"Anchorage Munic ",0
-2130,"Ketchikan Gateway  ",0
-2230,"Skagway Munic ",0
-2220,"Sitka City and  ",0
-2170,"Matanuska-Susitna  ",0
-2185,"North Slope  ",0
-2195,"Petersburg Cens ",0
-2275,"Wrangell City and  ",0
-2068,"Denali  ",0
-2013,"Aleutians East  ",0
-2016,"Aleutians West Cens ",0
-2164,"Lake and Peninsula  ",0
-1045,"Dale ",0
-1061,"Geneva ",0
-1041,"Crenshaw ",0
-1019,"Cherokee ",0
-1047,"Dallas ",0
-1073,"Jefferson ",0
-1055,"Etowah ",0
-1003,"Baldwin ",0
-1017,"Chambers ",0
-1025,"Clarke ",0
-1049,"DeKalb ",0
-1037,"Coosa ",0
-1129,"Washington ",0
-1065,"Hale ",0
-1067,"Henry ",0
-1005,"Barbour ",0
-1009,"Blount ",0
-1079,"Lawrence ",0
-1127,"Walker ",0
-1087,"Macon ",0
-1083,"Limestone ",0
-1013,"Butler ",0
-1085,"Lowndes ",0
-1115,"St. Clair ",0
-1093,"Marion ",0
-1117,"Shelby ",0
-1077,"Lauderdale ",0
-1051,"Elmore ",0
-1033,"Colbert ",0
-1029,"Cleburne ",0
-1021,"Chilton ",0
-1089,"Madison ",0
-1043,"Cullman ",0
-1113,"Russell ",0
-1119,"Sumter ",0
-1075,"Lamar ",0
-1107,"Pickens ",0
-1105,"Perry ",0
-1125,"Tuscaloosa ",0
-1007,"Bibb ",0
-1121,"Talladega ",0
-1109,"Pike ",0
-1101,"Montgomery ",0
-1111,"Randolph ",0
-1131,"Wilcox ",0
-1023,"Choctaw ",0
-1081,"Lee ",0
-1133,"Winston ",0
-1031,"Coffee ",0
-1059,"Franklin ",0
-1063,"Greene ",0
-1123,"Tallapoosa ",0
-1103,"Morgan ",0
-1071,"Jackson ",0
-1053,"Escambia ",0
-1039,"Covington ",0
-1099,"Monroe ",0
-1097,"Mobile ",0
-1091,"Marengo ",0
-1035,"Conecuh ",0
-1011,"Bullock ",0
-1069,"Houston ",0
-1027,"Clay ",0
-1095,"Marshall ",0
-1057,"Fayette ",0
-1015,"Calhoun ",0
-1001,"Autauga ",0
-5133,"Sevier ",0
-5079,"Lincoln ",0
-5049,"Fulton ",0
-5089,"Marion ",0
-5129,"Searcy ",0
-5035,"Crittenden ",0
-5105,"Perry ",0
-5057,"Hempstead ",0
-5055,"Greene ",0
-5111,"Poinsett ",0
-5023,"Cleburne ",0
-5031,"Craighead ",0
-5115,"Pope ",0
-5131,"Sebastian ",0
-5101,"Newton ",0
-5025,"Cleveland ",0
-5087,"Madison ",0
-5045,"Faulkner ",0
-5077,"Lee ",0
-5147,"Woodruff ",0
-5029,"Conway ",0
-5071,"Johnson ",0
-5083,"Logan ",0
-5127,"Scott ",0
-5069,"Jefferson ",0
-5139,"Union ",0
-5073,"Lafayette ",0
-5125,"Saline ",0
-5041,"Desha ",0
-5093,"Mississippi ",0
-5097,"Montgomery ",0
-5113,"Polk ",0
-5061,"Howard ",0
-5007,"Benton ",0
-5053,"Grant ",0
-5003,"Ashley ",0
-5037,"Cross ",0
-5091,"Miller ",0
-5027,"Columbia ",0
-5065,"Izard ",0
-5107,"Phillips ",0
-5005,"Baxter ",0
-5001,"Arkansas ",0
-5117,"Prairie ",0
-5015,"Carroll ",0
-5009,"Boone ",0
-5141,"Van Buren ",0
-5085,"Lonoke ",0
-5019,"Clark ",0
-5145,"White ",0
-5099,"Nevada ",0
-5017,"Chicot ",0
-5043,"Drew ",0
-5039,"Dallas ",0
-5135,"Sharp ",0
-5033,"Crawford ",0
-5143,"Washington ",0
-5121,"Randolph ",0
-5149,"Yell ",0
-5109,"Pike ",0
-5137,"Stone ",0
-5119,"Pulaski ",0
-5103,"Ouachita ",0
-5123,"St. Francis ",0
-5081,"Little River ",0
-5059,"Hot Spring ",0
-5047,"Franklin ",0
-5067,"Jackson ",0
-5063,"Independence ",0
-5021,"Clay ",0
-5075,"Lawrence ",0
-5051,"Garland ",0
-5095,"Monroe ",0
-5013,"Calhoun ",0
-5011,"Bradley ",0
-60050,"Western D ",NA
-60040,"Swains ",NA
-60010,"Eastern D ",NA
-60020,"Manu'a D ",NA
-60030,"Rose ",NA
-4021,"Pinal ",0
-4025,"Yavapai ",0
-4007,"Gila ",0
-4001,"Apache ",0
-4012,"La Paz ",0
-4013,"Maricopa ",0
-4019,"Pima ",0
-4005,"Coconino ",0
-4015,"Mohave ",0
-4023,"Santa Cruz ",0
-4009,"Graham ",0
-4003,"Cochise ",0
-4027,"Yuma ",0
-4011,"Greenlee ",0
-4017,"Navajo ",0
-6109,"Tuolumne ",0
-6047,"Merced ",0
-6001,"Alameda ",0
-6085,"Santa Clara ",0
-6079,"San Luis Obispo ",0
-6067,"Sacramento ",0
-6019,"Fresno ",0
-6097,"Sonoma ",0
-6083,"Santa Barbara ",0
-6099,"Stanislaus ",0
-6075,"San Francisco ",0
-6101,"Sutter ",0
-6053,"Monterey ",0
-6011,"Colusa ",0
-6055,"Napa ",0
-6089,"Shasta ",0
-6107,"Tulare ",0
-6017,"El Dorado ",0
-6087,"Santa Cruz ",0
-6031,"Kings ",0
-6073,"San Diego ",0
-6045,"Mendocino ",0
-6027,"Inyo ",0
-6077,"San Joaquin ",0
-6057,"Nevada ",0
-6065,"Riverside ",0
-6059,"Orange ",0
-6081,"San Mateo ",0
-6111,"Ventura ",0
-6013,"Contra Costa ",0
-6091,"Sierra ",0
-6093,"Siskiyou ",0
-6115,"Yuba ",0
-6049,"Modoc ",0
-6051,"Mono ",0
-6063,"Plumas ",0
-6021,"Glenn ",0
-6037,"Los Angeles ",0
-6007,"Butte ",0
-6033,"Lake ",0
-6025,"Imperial ",0
-6095,"Solano ",0
-6113,"Yolo ",0
-6041,"Marin ",0
-6029,"Kern ",0
-6023,"Humboldt ",0
-6009,"Calaveras ",0
-6071,"San Bernardino ",0
-6061,"Placer ",0
-6015,"Del Norte ",0
-6105,"Trinity ",0
-6103,"Tehama ",0
-6039,"Madera ",0
-6043,"Mariposa ",0
-6069,"San Benito ",0
-6005,"Amador ",0
-6035,"Lassen ",0
-6003,"Alpine ",0
-8091,"Ouray ",23.85547072155
-8075,"Logan ",148.41234700785
-8053,"Hinsdale ",5.06987380836
-8017,"Cheyenne ",10.68527611359
-8121,"Washington ",25.70602205088
-8073,"Lincoln ",33.35374278144
-8109,"Saguache ",40.06289612844
-8021,"Conejos ",46.4564238966
-8005,"Arapahoe ",3775.07255116833
-8001,"Adams ",2524.74700831983
-8115,"Sedgwick ",13.16117116998
-8077,"Mesa ",900.09686456775
-8043,"Fremont ",308.65120782489
-8063,"Kit Carson ",51.47640912879
-8023,"Costilla ",18.85762212498
-8081,"Moffat ",85.70526310224
-8083,"Montezuma ",154.1501824356
-8025,"Crowley ",42.98811295446
-8099,"Prowers ",74.417396607
-8029,"Delta ",180.71700151968
-8003,"Alamosa ",99.23529164346
-8059,"Jefferson ",3737.76222558312
-8051,"Gunnison ",110.45635873092
-8101,"Pueblo ",957.84845810184
-8071,"Las Animas ",95.64785833662
-8015,"Chaffee ",112.5930309444
-8009,"Baca ",20.20477597362
-8055,"Huerfano ",35.90331842853
-8057,"Jackson ",8.14826187117
-8067,"La Plata ",350.73853498503
-8065,"Lake ",50.78566170558
-8047,"Gilpin ",36.40898799792
-8007,"Archuleta ",73.51011913068
-8061,"Kiowa ",7.5170431719
-8019,"Clear Creek ",40.41146699343
-8069,"Larimer ",1968.88466254131
-8089,"Otero ",109.55868894396
-8011,"Bent ",43.75883789991
-8079,"Mineral ",3.76004713122
-8103,"Rio Blanco ",40.37128348185
-8117,"Summit ",208.01260928349
-8013,"Boulder ",2087.50466842974
-8014,"Broomfield ",396.78822254592
-8049,"Grand ",101.40675927246
-8105,"Rio Grande ",69.21346956534
-8033,"Dolores ",11.25583004457
-8037,"Eagle ",348.5783304243
-8031,"Denver ",3926.58357274524
-8095,"Phillips ",24.82691847444
-8125,"Yuma ",57.62922532839
-8097,"Pitkin ",102.16430610345
-8119,"Teller ",156.34430603478
-8035,"Douglas ",1793.92393282626
-8123,"Weld ",1563.60269080818
-8111,"San Juan ",5.08581088767
-8093,"Park ",104.6202716961
-8041,"El Paso ",3982.07398360509
-8087,"Morgan ",165.23696908089
-8027,"Custer ",26.47187823483
-8085,"Montrose ",236.43017444736
-8045,"Garfield ",399.33068980122
-8113,"San Miguel ",54.43807674924
-8107,"Routt ",167.39272683945
-8039,"Elbert ",102.34675482606
-9003,"Hartford ",0
-9009,"New Haven ",0
-9005,"Litchfield ",0
-9013,"Tolland ",0
-9011,"New London ",0
-9015,"Windham ",0
-9001,"Fairfield ",0
-9007,"Middlesex ",0
-11001,"District of C ",0
-10001,"Kent ",1301.508266955
-10005,"Sussex ",1597.2543808325
-10003,"New Castle ",4527.48734478625
-12071,"Lee ",0
-12017,"Citrus ",0
-12029,"Dixie ",0
-12073,"Leon ",0
-12081,"Manatee ",0
-12107,"Putnam ",0
-12001,"Alachua ",0
-12057,"Hillsborough ",0
-12053,"Hernando ",0
-12121,"Suwannee ",0
-12049,"Hardee ",0
-12065,"Jefferson ",0
-12005,"Bay ",0
-12117,"Seminole ",0
-12105,"Polk ",0
-12035,"Flagler ",0
-12129,"Wakulla ",0
-12125,"Union ",0
-12097,"Osceola ",0
-12075,"Levy ",0
-12045,"Gulf ",0
-12083,"Marion ",0
-12123,"Taylor ",0
-12015,"Charlotte ",0
-12079,"Madison ",0
-12031,"Duval ",0
-12101,"Pasco ",0
-12043,"Glades ",0
-12023,"Columbia ",0
-12007,"Bradford ",0
-12013,"Calhoun ",0
-12085,"Martin ",0
-12086,"Miami-Dade ",0
-12131,"Walton ",0
-12059,"Holmes ",0
-12039,"Gadsden ",0
-12009,"Brevard ",0
-12133,"Washington ",0
-12061,"Indian River ",0
-12019,"Clay ",0
-12051,"Hendry ",0
-12111,"St. Lucie ",0
-12077,"Liberty ",0
-12087,"Monroe ",0
-12063,"Jackson ",0
-12067,"Lafayette ",0
-12047,"Hamilton ",0
-12069,"Lake ",0
-12055,"Highlands ",0
-12099,"Palm Beach ",0
-12027,"DeSoto ",0
-12115,"Sarasota ",0
-12119,"Sumter ",0
-12093,"Okeechobee ",0
-12091,"Okaloosa ",0
-12033,"Escambia ",0
-12103,"Pinellas ",0
-12041,"Gilchrist ",0
-12113,"Santa Rosa ",0
-12109,"St. Johns ",0
-12089,"Nassau ",0
-12003,"Baker ",0
-12095,"Orange ",0
-12021,"Collier ",0
-12037,"Franklin ",0
-12011,"Broward ",0
-12127,"Volusia ",0
-13063,"Clayton ",0
-13137,"Habersham ",0
-13121,"Fulton ",0
-13205,"Mitchell ",0
-13113,"Fayette ",0
-13107,"Emanuel ",0
-13117,"Forsyth ",0
-13269,"Taylor ",0
-13253,"Seminole ",0
-13225,"Peach ",0
-13319,"Wilkinson ",0
-13045,"Carroll ",0
-13057,"Cherokee ",0
-13143,"Haralson ",0
-13021,"Bibb ",0
-13181,"Lincoln ",0
-13303,"Washington ",0
-13287,"Turner ",0
-13171,"Lamar ",0
-13009,"Baldwin ",0
-13133,"Greene ",0
-13295,"Walker ",0
-13233,"Polk ",0
-13111,"Fannin ",0
-13093,"Dooly ",0
-13135,"Gwinnett ",0
-13209,"Montgomery ",0
-13081,"Crisp ",0
-13241,"Rabun ",0
-13255,"Spalding ",0
-13075,"Cook ",0
-13251,"Screven ",0
-13261,"Sumter ",0
-13145,"Harris ",0
-13017,"Ben Hill ",0
-13029,"Bryan ",0
-13177,"Lee ",0
-13125,"Glascock ",0
-13259,"Stewart ",0
-13191,"McIntosh ",0
-13247,"Rockdale ",0
-13019,"Berrien ",0
-13007,"Baker ",0
-13189,"McDuffie ",0
-13279,"Toombs ",0
-13283,"Treutlen ",0
-13257,"Stephens ",0
-13243,"Randolph ",0
-13165,"Jenkins ",0
-13235,"Pulaski ",0
-13027,"Brooks ",0
-13311,"White ",0
-13011,"Banks ",0
-13309,"Wheeler ",0
-13069,"Coffee ",0
-13221,"Oglethorpe ",0
-13195,"Madison ",0
-13015,"Bartow ",0
-13131,"Grady ",0
-13025,"Brantley ",0
-13185,"Lowndes ",0
-13299,"Ware ",0
-13173,"Lanier ",0
-13271,"Telfair ",0
-13215,"Muscogee ",0
-13013,"Barrow ",0
-13049,"Charlton ",0
-13127,"Glynn ",0
-13305,"Wayne ",0
-13089,"DeKalb ",0
-13047,"Catoosa ",0
-13071,"Colquitt ",0
-13123,"Gilmer ",0
-13161,"Jeff Davis ",0
-13169,"Jones ",0
-13281,"Towns ",0
-13067,"Cobb ",0
-13267,"Tattnall ",0
-13159,"Jasper ",0
-13091,"Dodge ",0
-13005,"Bacon ",0
-13317,"Wilkes ",0
-13085,"Dawson ",0
-13313,"Whitfield ",0
-13315,"Wilcox ",0
-13207,"Monroe ",0
-13237,"Putnam ",0
-13231,"Pike ",0
-13307,"Webster ",0
-13227,"Pickens ",0
-13167,"Johnson ",0
-13053,"Chattahoochee ",0
-13097,"Douglas ",0
-13219,"Oconee ",0
-13043,"Candler ",0
-13001,"Appling ",0
-13239,"Quitman ",0
-13153,"Houston ",0
-13297,"Walton ",0
-13245,"Richmond ",0
-13059,"Clarke ",0
-13149,"Heard ",0
-13249,"Schley ",0
-13055,"Chattooga ",0
-13217,"Newton ",0
-13087,"Decatur ",0
-13263,"Talbot ",0
-13147,"Hart ",0
-13151,"Henry ",0
-13157,"Jackson ",0
-13163,"Jefferson ",0
-13175,"Laurens ",0
-13119,"Franklin ",0
-13183,"Long ",0
-13139,"Hall ",0
-13197,"Marion ",0
-13101,"Echols ",0
-13285,"Troup ",0
-13079,"Crawford ",0
-13229,"Pierce ",0
-13077,"Coweta ",0
-13179,"Liberty ",0
-13037,"Calhoun ",0
-13293,"Upson ",0
-13129,"Gordon ",0
-13003,"Atkinson ",0
-13155,"Irwin ",0
-13141,"Hancock ",0
-13201,"Miller ",0
-13187,"Lumpkin ",0
-13275,"Thomas ",0
-13035,"Butts ",0
-13291,"Union ",0
-13321,"Worth ",0
-13301,"Warren ",0
-13083,"Dade ",0
-13039,"Camden ",0
-13199,"Meriwether ",0
-13031,"Bulloch ",0
-13099,"Early ",0
-13023,"Bleckley ",0
-13105,"Elbert ",0
-13213,"Murray ",0
-13103,"Effingham ",0
-13095,"Dougherty ",0
-13273,"Terrell ",0
-13289,"Twiggs ",0
-13073,"Columbia ",0
-13223,"Paulding ",0
-13033,"Burke ",0
-13065,"Clinch ",0
-13277,"Tift ",0
-13211,"Morgan ",0
-13115,"Floyd ",0
-13051,"Chatham ",0
-13109,"Evans ",0
-13265,"Taliaferro ",0
-13193,"Macon ",0
-13061,"Clay ",0
-66010," ",NA
-15003,"Honolulu ",0
-15009,"Maui ",0
-15005,"Kalawao ",0
-15007,"Kauai ",0
-15001,"Hawaii ",0
-19049,"Dallas ",0
-19013,"Black Hawk ",0
-19031,"Cedar ",0
-19051,"Davis ",0
-19035,"Cherokee ",0
-19095,"Iowa ",0
-19159,"Ringgold ",0
-19181,"Warren ",0
-19003,"Adams ",0
-19189,"Winnebago ",0
-19193,"Woodbury ",0
-19039,"Clarke ",0
-19119,"Lyon ",0
-19001,"Adair ",0
-19027,"Carroll ",0
-19055,"Delaware ",0
-19091,"Humboldt ",0
-19073,"Greene ",0
-19137,"Montgomery ",0
-19111,"Lee ",0
-19065,"Fayette ",0
-19187,"Webster ",0
-19115,"Louisa ",0
-19025,"Calhoun ",0
-19113,"Linn ",0
-19069,"Franklin ",0
-19167,"Sioux ",0
-19163,"Scott ",0
-19077,"Guthrie ",0
-19021,"Buena Vista ",0
-19125,"Marion ",0
-19139,"Muscatine ",0
-19037,"Chickasaw ",0
-19175,"Union ",0
-19057,"Des Moines ",0
-19127,"Marshall ",0
-19161,"Sac ",0
-19123,"Mahaska ",0
-19101,"Jefferson ",0
-19089,"Howard ",0
-19171,"Tama ",0
-19145,"Page ",0
-19179,"Wapello ",0
-19151,"Pocahontas ",0
-19183,"Washington ",0
-19147,"Palo Alto ",0
-19045,"Clinton ",0
-19173,"Taylor ",0
-19177,"Van Buren ",0
-19083,"Hardin ",0
-19043,"Clayton ",0
-19005,"Allamakee ",0
-19191,"Winneshiek ",0
-19143,"Osceola ",0
-19085,"Harrison ",0
-19117,"Lucas ",0
-19011,"Benton ",0
-19141,"O'Brien ",0
-19169,"Story ",0
-19017,"Bremer ",0
-19121,"Madison ",0
-19133,"Monona ",0
-19053,"Decatur ",0
-19015,"Boone ",0
-19029,"Cass ",0
-19019,"Buchanan ",0
-19071,"Fremont ",0
-19197,"Wright ",0
-19009,"Audubon ",0
-19103,"Johnson ",0
-19081,"Hancock ",0
-19185,"Wayne ",0
-19067,"Floyd ",0
-19195,"Worth ",0
-19041,"Clay ",0
-19099,"Jasper ",0
-19063,"Emmet ",0
-19153,"Polk ",0
-19109,"Kossuth ",0
-19165,"Shelby ",0
-19087,"Henry ",0
-19157,"Poweshiek ",0
-19097,"Jackson ",0
-19023,"Butler ",0
-19129,"Mills ",0
-19059,"Dickinson ",0
-19093,"Ida ",0
-19033,"Cerro Gordo ",0
-19007,"Appanoose ",0
-19149,"Plymouth ",0
-19061,"Dubuque ",0
-19075,"Grundy ",0
-19079,"Hamilton ",0
-19047,"Crawford ",0
-19131,"Mitchell ",0
-19105,"Jones ",0
-19107,"Keokuk ",0
-19135,"Monroe ",0
-19155,"Pottawattamie ",0
-16023,"Butte ",0
-16077,"Power ",0
-16067,"Minidoka ",0
-16003,"Adams ",0
-16007,"Bear Lake ",0
-16065,"Madison ",0
-16063,"Lincoln ",0
-16043,"Fremont ",0
-16039,"Elmore ",0
-16051,"Jefferson ",0
-16071,"Oneida ",0
-16057,"Latah ",0
-16017,"Bonner ",0
-16083,"Twin Falls ",0
-16009,"Benewah ",0
-16035,"Clearwater ",0
-16033,"Clark ",0
-16045,"Gem ",0
-16027,"Canyon ",0
-16013,"Blaine ",0
-16015,"Boise ",0
-16031,"Cassia ",0
-16073,"Owyhee ",0
-16053,"Jerome ",0
-16001,"Ada ",0
-16005,"Bannock ",0
-16047,"Gooding ",0
-16019,"Bonneville ",0
-16069,"Nez Perce ",0
-16041,"Franklin ",0
-16021,"Boundary ",0
-16085,"Valley ",0
-16011,"Bingham ",0
-16087,"Washington ",0
-16075,"Payette ",0
-16025,"Camas ",0
-16059,"Lemhi ",0
-16079,"Shoshone ",0
-16061,"Lewis ",0
-16055,"Kootenai ",0
-16049,"Idaho ",0
-16081,"Teton ",0
-16037,"Custer ",0
-16029,"Caribou ",0
-17135,"Montgomery ",9.49885141935484
-17061,"Greene ",4.33623716129032
-17131,"Mercer ",4.61415251612903
-17161,"Rock Island ",46.0844309032258
-17065,"Hamilton ",2.23530503225806
-17175,"Stark ",1.76481696774194
-17111,"McHenry ",104.92302483871
-17043,"DuPage ",304.861401870968
-17107,"Logan ",9.76180935483871
-17085,"Jo Daviess ",6.54947187096774
-17051,"Fayette ",6.7201815483871
-17013,"Calhoun ",1.43766406451613
-17037,"DeKalb ",36.6026992258064
-17071,"Henderson ",1.9991444516129
-17031,"Cook ",1675.17613741935
-17191,"Wayne ",4.74387561290323
-17149,"Pike ",4.93688729032258
-17167,"Sangamon ",62.5559150322581
-17203,"Woodford ",10.3333494193548
-17123,"Marshall ",3.597174
-17157,"Randolph ",11.8382893548387
-17001,"Adams ",20.1038568387097
-17139,"Moultrie ",3.98159187096774
-17109,"McDonough ",11.4727227096774
-17193,"White ",4.65954503225806
-17011,"Bureau ",10.3452259354839
-17113,"McLean ",57.9573824516129
-17015,"Carroll ",4.69075238709677
-17019,"Champaign ",72.0010579354839
-17055,"Franklin ",12.3219464516129
-17177,"Stephenson ",14.4019869677419
-17053,"Ford ",4.07329548387097
-17075,"Iroquois ",8.15097658064516
-17169,"Schuyler ",2.17634109677419
-17147,"Piatt ",4.81540296774193
-17005,"Bond ",5.81776548387097
-17041,"Douglas ",6.68829135483871
-17023,"Clark ",5.13560148387097
-17143,"Peoria ",58.492602
-17035,"Cumberland ",3.35137238709677
-17153,"Pulaski ",1.95752787096774
-17079,"Jasper ",2.81063729032258
-17017,"Cass ",4.37482161290323
-17163,"St. Clair ",83.0826441290322
-17007,"Boone ",15.8346110322581
-17105,"Livingston ",11.4760962580645
-17199,"Williamson ",19.3565508387097
-17117,"Macoupin ",15.8175116129032
-17009,"Brown ",2.4897315483871
-17091,"Kankakee ",35.7150332903226
-17195,"Whiteside ",17.9520166451613
-17179,"Tazewell ",42.4149450967742
-17063,"Grundy ",16.1169160645161
-17125,"Mason ",5.03762632258064
-17159,"Richland ",4.7779484516129
-17029,"Coles ",18.3526600645161
-17095,"Knox ",16.3694729032258
-17069,"Hardin ",1.3058924516129
-17057,"Fulton ",11.6887517419355
-17189,"Washington ",4.28388619354839
-17027,"Clinton ",10.0728098709677
-17045,"Edgar ",5.39535251612903
-17093,"Kendall ",32.1496397419355
-17145,"Perry ",6.797322
-17047,"Edwards ",1.74912793548387
-17081,"Jefferson ",11.9679189677419
-17077,"Jackson ",22.4285202580645
-17021,"Christian ",10.4425060645161
-17187,"Warren ",5.45413761290323
-17103,"Lee ",11.6841263225806
-17127,"Massac ",4.50413012903226
-17115,"Macon ",34.0619823870968
-17083,"Jersey ",5.779368
-17201,"Winnebago ",91.7813670967742
-17089,"Kane ",158.354259677419
-17073,"Henry ",14.779137483871
-17099,"LaSalle ",0.0508064516129032
-17121,"Marion ",14.2547783225806
-17119,"Madison ",87.0506361290323
-17181,"Union ",5.28286296774193
-17137,"Morgan ",11.1169678064516
-17185,"Wabash ",3.53873438709677
-17059,"Gallatin ",1.71303096774194
-17151,"Pope ",1.01677529032258
-17183,"Vermilion ",24.6010854193548
-17141,"Ogle ",15.6528377419355
-17003,"Alexander ",2.46389341935484
-17067,"Hancock ",5.86136961290322
-17087,"Johnson ",4.24498470967742
-17171,"Scott ",1.44750425806452
-17173,"Shelby ",6.48830496774193
-17129,"Menard ",3.91487283870968
-17165,"Saline ",7.50676703225806
-17197,"Will ",211.205358
-17049,"Effingham ",10.4802044516129
-17039,"De Witt ",5.05273412903226
-17097,"Lake ",229.122655548387
-17025,"Clay ",3.95315651612903
-17033,"Crawford ",6.36499161290322
-17133,"Monroe ",10.1047529032258
-17101,"Lawrence ",6.34522180645161
-17155,"Putnam ",1.85543941935484
-18135,"Randolph ",0
-18149,"Starke ",0
-18087,"LaGrange ",0
-18075,"Jay ",0
-18003,"Allen ",0
-18059,"Hancock ",0
-18067,"Howard ",0
-18047,"Franklin ",0
-18103,"Miami ",0
-18119,"Owen ",0
-18147,"Spencer ",0
-18159,"Tipton ",0
-18033,"DeKalb ",0
-18137,"Ripley ",0
-18141,"St. Joseph ",0
-18157,"Tippecanoe ",0
-18183,"Whitley ",0
-18019,"Clark ",0
-18035,"Delaware ",0
-18027,"Daviess ",0
-18053,"Grant ",0
-18005,"Bartholomew ",0
-18009,"Blackford ",0
-18045,"Fountain ",0
-18099,"Marshall ",0
-18153,"Sullivan ",0
-18039,"Elkhart ",0
-18121,"Parke ",0
-18023,"Clinton ",0
-18041,"Fayette ",0
-18125,"Pike ",0
-18061,"Harrison ",0
-18107,"Montgomery ",0
-18079,"Jennings ",0
-18177,"Wayne ",0
-18101,"Martin ",0
-18011,"Boone ",0
-18025,"Crawford ",0
-18085,"Kosciusko ",0
-18171,"Warren ",0
-18173,"Warrick ",0
-18063,"Hendricks ",0
-18013,"Brown ",0
-18181,"White ",0
-18073,"Jasper ",0
-18163,"Vanderburgh ",0
-18015,"Carroll ",0
-18097,"Marion ",0
-18069,"Huntington ",0
-18021,"Clay ",0
-18161,"Union ",0
-18143,"Scott ",0
-18089,"Lake ",0
-18049,"Fulton ",0
-18179,"Wells ",0
-18105,"Monroe ",0
-18139,"Rush ",0
-18165,"Vermillion ",0
-18077,"Jefferson ",0
-18151,"Steuben ",0
-18123,"Perry ",0
-18057,"Hamilton ",0
-18051,"Gibson ",0
-18081,"Johnson ",0
-18091,"LaPorte ",0
-18055,"Greene ",0
-18111,"Newton ",0
-18095,"Madison ",0
-18017,"Cass ",0
-18001,"Adams ",0
-18113,"Noble ",0
-18117,"Orange ",0
-18109,"Morgan ",0
-18155,"Switzerland ",0
-18169,"Wabash ",0
-18115,"Ohio ",0
-18037,"Dubois ",0
-18131,"Pulaski ",0
-18175,"Washington ",0
-18065,"Henry ",0
-18043,"Floyd ",0
-18007,"Benton ",0
-18083,"Knox ",0
-18129,"Posey ",0
-18167,"Vigo ",0
-18145,"Shelby ",0
-18031,"Decatur ",0
-18029,"Dearborn ",0
-18071,"Jackson ",0
-18133,"Putnam ",0
-18093,"Lawrence ",0
-18127,"Porter ",0
-20105,"Lincoln ",0
-20081,"Haskell ",0
-20057,"Ford ",0
-20133,"Neosho ",0
-20109,"Logan ",0
-20101,"Lane ",0
-20127,"Morris ",0
-20157,"Republic ",0
-20111,"Lyon ",0
-20173,"Sedgwick ",0
-20135,"Ness ",0
-20031,"Coffey ",0
-20125,"Montgomery ",0
-20151,"Pratt ",0
-20051,"Ellis ",0
-20179,"Sheridan ",0
-20021,"Cherokee ",0
-20079,"Harvey ",0
-20165,"Rush ",0
-20209,"Wyandotte ",0
-20159,"Rice ",0
-20015,"Butler ",0
-20119,"Meade ",0
-20013,"Brown ",0
-20053,"Ellsworth ",0
-20055,"Finney ",0
-20099,"Labette ",0
-20181,"Sherman ",0
-20147,"Phillips ",0
-20107,"Linn ",0
-20117,"Marshall ",0
-20153,"Rawlins ",0
-20067,"Grant ",0
-20097,"Kiowa ",0
-20177,"Shawnee ",0
-20167,"Russell ",0
-20003,"Anderson ",0
-20035,"Cowley ",0
-20019,"Chautauqua ",0
-20037,"Crawford ",0
-20065,"Graham ",0
-20047,"Edwards ",0
-20187,"Stanton ",0
-20061,"Geary ",0
-20049,"Elk ",0
-20197,"Wabaunsee ",0
-20201,"Washington ",0
-20191,"Sumner ",0
-20033,"Comanche ",0
-20075,"Hamilton ",0
-20095,"Kingman ",0
-20189,"Stevens ",0
-20115,"Marion ",0
-20073,"Greenwood ",0
-20063,"Gove ",0
-20131,"Nemaha ",0
-20207,"Woodson ",0
-20011,"Bourbon ",0
-20169,"Saline ",0
-20001,"Allen ",0
-20089,"Jewell ",0
-20123,"Mitchell ",0
-20069,"Gray ",0
-20203,"Wichita ",0
-20113,"McPherson ",0
-20143,"Ottawa ",0
-20071,"Greeley ",0
-20077,"Harper ",0
-20009,"Barton ",0
-20103,"Leavenworth ",0
-20183,"Smith ",0
-20145,"Pawnee ",0
-20007,"Barber ",0
-20155,"Reno ",0
-20163,"Rooks ",0
-20087,"Jefferson ",0
-20093,"Kearny ",0
-20185,"Stafford ",0
-20059,"Franklin ",0
-20085,"Jackson ",0
-20205,"Wilson ",0
-20029,"Cloud ",0
-20141,"Osborne ",0
-20027,"Clay ",0
-20043,"Doniphan ",0
-20091,"Johnson ",0
-20175,"Seward ",0
-20149,"Pottawatomie ",0
-20129,"Morton ",0
-20199,"Wallace ",0
-20023,"Cheyenne ",0
-20039,"Decatur ",0
-20025,"Clark ",0
-20083,"Hodgeman ",0
-20017,"Chase ",0
-20005,"Atchison ",0
-20139,"Osage ",0
-20193,"Thomas ",0
-20171,"Scott ",0
-20041,"Dickinson ",0
-20121,"Miami ",0
-20161,"Riley ",0
-20195,"Trego ",0
-20045,"Douglas ",0
-20137,"Norton ",0
-21063,"Elliott ",0
-21149,"McLean ",0
-21187,"Owen ",0
-21007,"Ballard ",0
-21169,"Metcalfe ",0
-21163,"Meade ",0
-21035,"Calloway ",0
-21167,"Mercer ",0
-21185,"Oldham ",0
-21013,"Bell ",0
-21069,"Fleming ",0
-21089,"Greenup ",0
-21143,"Lyon ",0
-21041,"Carroll ",0
-21199,"Pulaski ",0
-21239,"Woodford ",0
-21037,"Campbell ",0
-21131,"Leslie ",0
-21179,"Nelson ",0
-21165,"Menifee ",0
-21017,"Bourbon ",0
-21177,"Muhlenberg ",0
-21157,"Marshall ",0
-21001,"Adair ",0
-21203,"Rockcastle ",0
-21195,"Pike ",0
-21095,"Harlan ",0
-21043,"Carter ",0
-21205,"Rowan ",0
-21155,"Marion ",0
-21067,"Fayette ",0
-21123,"Larue ",0
-21129,"Lee ",0
-21075,"Fulton ",0
-21015,"Boone ",0
-21093,"Hardin ",0
-21235,"Whitley ",0
-21081,"Grant ",0
-21117,"Kenton ",0
-21215,"Spencer ",0
-21207,"Russell ",0
-21191,"Pendleton ",0
-21061,"Edmonson ",0
-21119,"Knott ",0
-21009,"Barren ",0
-21077,"Gallatin ",0
-21065,"Estill ",0
-21173,"Montgomery ",0
-21051,"Clay ",0
-21053,"Clinton ",0
-21097,"Harrison ",0
-21229,"Washington ",0
-21057,"Cumberland ",0
-21055,"Crittenden ",0
-21023,"Bracken ",0
-21021,"Boyle ",0
-21087,"Green ",0
-21099,"Hart ",0
-21197,"Powell ",0
-21039,"Carlisle ",0
-21227,"Warren ",0
-21159,"Martin ",0
-21105,"Hickman ",0
-21213,"Simpson ",0
-21083,"Graves ",0
-21101,"Henderson ",0
-21161,"Mason ",0
-21019,"Boyd ",0
-21141,"Logan ",0
-21231,"Wayne ",0
-21217,"Taylor ",0
-21031,"Butler ",0
-21137,"Lincoln ",0
-21153,"Magoffin ",0
-21125,"Laurel ",0
-21151,"Madison ",0
-21033,"Caldwell ",0
-21133,"Letcher ",0
-21103,"Henry ",0
-21211,"Shelby ",0
-21025,"Breathitt ",0
-21193,"Perry ",0
-21115,"Johnson ",0
-21225,"Union ",0
-21233,"Webster ",0
-21139,"Livingston ",0
-21113,"Jessamine ",0
-21091,"Hancock ",0
-21175,"Morgan ",0
-21045,"Casey ",0
-21027,"Breckinridge ",0
-21121,"Knox ",0
-21107,"Hopkins ",0
-21171,"Monroe ",0
-21003,"Allen ",0
-21071,"Floyd ",0
-21147,"McCreary ",0
-21047,"Christian ",0
-21219,"Todd ",0
-21029,"Bullitt ",0
-21059,"Daviess ",0
-21011,"Bath ",0
-21223,"Trimble ",0
-21049,"Clark ",0
-21127,"Lawrence ",0
-21085,"Grayson ",0
-21111,"Jefferson ",0
-21005,"Anderson ",0
-21109,"Jackson ",0
-21183,"Ohio ",0
-21073,"Franklin ",0
-21237,"Wolfe ",0
-21201,"Robertson ",0
-21189,"Owsley ",0
-21221,"Trigg ",0
-21135,"Lewis ",0
-21209,"Scott ",0
-21079,"Garrard ",0
-21181,"Nicholas ",0
-21145,"McCracken ",0
-22067,"Morehouse ",36.08220703125
-22027,"Claiborne ",36.08220703125
-22023,"Cameron ",36.08220703125
-22011,"Beauregard ",36.08220703125
-22071,"Orleans ",36.08220703125
-22077,"Pointe Coupee ",36.08220703125
-22055,"Lafayette ",36.08220703125
-22089,"St. Charles ",36.08220703125
-22059,"La Salle ",36.08220703125
-22031,"De Soto ",36.08220703125
-22025,"Catahoula ",36.08220703125
-22017,"Caddo ",36.08220703125
-22097,"St. Landry ",36.08220703125
-22117,"Washington ",36.08220703125
-22073,"Ouachita ",36.08220703125
-22043,"Grant ",36.08220703125
-22047,"Iberville ",36.08220703125
-22041,"Franklin ",36.08220703125
-22069,"Natchitoches ",36.08220703125
-22079,"Rapides ",36.08220703125
-22113,"Vermilion ",36.08220703125
-22001,"Acadia ",36.08220703125
-22085,"Sabine ",36.08220703125
-22065,"Madison ",36.08220703125
-22005,"Ascension ",36.08220703125
-22037,"East Feliciana ",36.08220703125
-22081,"Red River ",36.08220703125
-22019,"Calcasieu ",36.08220703125
-22021,"Caldwell ",36.08220703125
-22105,"Tangipahoa ",36.08220703125
-22121,"West Baton Rouge ",36.08220703125
-22083,"Richland ",36.08220703125
-22101,"St. Mary ",36.08220703125
-22029,"Concordia ",36.08220703125
-22033,"East Baton Rouge ",36.08220703125
-22111,"Union ",36.08220703125
-22003,"Allen ",36.08220703125
-22119,"Webster ",36.08220703125
-22035,"East Carroll ",36.08220703125
-22057,"Lafourche ",36.08220703125
-22039,"Evangeline ",36.08220703125
-22007,"Assumption ",36.08220703125
-22087,"St. Bernard ",36.08220703125
-22127,"Winn ",36.08220703125
-22093,"St. James ",36.08220703125
-22115,"Vernon ",36.08220703125
-22049,"Jackson ",36.08220703125
-22109,"Terrebonne ",36.08220703125
-22063,"Livingston ",36.08220703125
-22099,"St. Martin ",36.08220703125
-22009,"Avoyelles ",36.08220703125
-22061,"Lincoln ",36.08220703125
-22053,"Jefferson Davis ",36.08220703125
-22013,"Bienville ",36.08220703125
-22045,"Iberia ",36.08220703125
-22095,"St. John the Baptist ",36.08220703125
-22075,"Plaquemines ",36.08220703125
-22123,"West Carroll ",36.08220703125
-22103,"St. Tammany ",36.08220703125
-22107,"Tensas ",36.08220703125
-22125,"West Feliciana ",36.08220703125
-22091,"St. Helena ",36.08220703125
-22015,"Bossier ",36.08220703125
-22051,"Jefferson ",36.08220703125
-25015,"Hampshire ",0
-25005,"Bristol ",0
-25003,"Berkshire ",0
-25011,"Franklin ",0
-25013,"Hampden ",0
-25023,"Plymouth ",0
-25025,"Suffolk ",0
-25027,"Worcester ",0
-25019,"Nantucket ",0
-25001,"Barnstable ",0
-25021,"Norfolk ",0
-25009,"Essex ",0
-25007,"Dukes ",0
-25017,"Middlesex ",0
-24015,"Cecil ",0
-24011,"Caroline ",0
-24045,"Wicomico ",0
-24033,"Prince George's ",0
-24001,"Allegany ",0
-24027,"Howard ",0
-24031,"Montgomery ",0
-24009,"Calvert ",0
-24013,"Carroll ",0
-24029,"Kent ",0
-24005,"Baltimore ",0
-24043,"Washington ",0
-24047,"Worcester ",0
-24510,"Baltimo ",0
-24023,"Garrett ",0
-24025,"Harford ",0
-24019,"Dorchester ",0
-24017,"Charles ",0
-24021,"Frederick ",0
-24037,"St. Mary's ",0
-24041,"Talbot ",0
-24039,"Somerset ",0
-24003,"Anne Arundel ",0
-24035,"Queen Anne's ",0
-23017,"Oxford ",0
-23027,"Waldo ",0
-23019,"Penobscot ",0
-23023,"Sagadahoc ",0
-23021,"Piscataquis ",0
-23013,"Knox ",0
-23007,"Franklin ",0
-23011,"Kennebec ",0
-23029,"Washington ",0
-23003,"Aroostook ",0
-23015,"Lincoln ",0
-23005,"Cumberland ",0
-23031,"York ",0
-23025,"Somerset ",0
-23009,"Hancock ",0
-23001,"Androscoggin ",0
-26101,"Manistee ",0
-26067,"Ionia ",0
-26011,"Arenac ",0
-26099,"Macomb ",0
-26097,"Mackinac ",0
-26003,"Alger ",0
-26087,"Lapeer ",0
-26163,"Wayne ",0
-26141,"Presque Isle ",0
-26165,"Wexford ",0
-26071,"Iron ",0
-26161,"Washtenaw ",0
-26025,"Calhoun ",0
-26005,"Allegan ",0
-26109,"Menominee ",0
-26065,"Ingham ",0
-26155,"Shiawassee ",0
-26079,"Kalkaska ",0
-26069,"Iosco ",0
-26113,"Missaukee ",0
-26049,"Genesee ",0
-26021,"Berrien ",0
-26077,"Kalamazoo ",0
-26157,"Tuscola ",0
-26045,"Eaton ",0
-26117,"Montcalm ",0
-26103,"Marquette ",0
-26029,"Charlevoix ",0
-26085,"Lake ",0
-26131,"Ontonagon ",0
-26145,"Saginaw ",0
-26057,"Gratiot ",0
-26133,"Osceola ",0
-26093,"Livingston ",0
-26063,"Huron ",0
-26035,"Clare ",0
-26001,"Alcona ",0
-26023,"Branch ",0
-26007,"Alpena ",0
-26151,"Sanilac ",0
-26019,"Benzie ",0
-26043,"Dickinson ",0
-26017,"Bay ",0
-26083,"Keweenaw ",0
-26107,"Mecosta ",0
-26149,"St. Joseph ",0
-26143,"Roscommon ",0
-26135,"Oscoda ",0
-26073,"Isabella ",0
-26047,"Emmet ",0
-26137,"Otsego ",0
-26153,"Schoolcraft ",0
-26061,"Houghton ",0
-26051,"Gladwin ",0
-26015,"Barry ",0
-26031,"Cheboygan ",0
-26129,"Ogemaw ",0
-26139,"Ottawa ",0
-26111,"Midland ",0
-26037,"Clinton ",0
-26059,"Hillsdale ",0
-26055,"Grand Traverse ",0
-26027,"Cass ",0
-26121,"Muskegon ",0
-26119,"Montmorency ",0
-26041,"Delta ",0
-26095,"Luce ",0
-26159,"Van Buren ",0
-26009,"Antrim ",0
-26039,"Crawford ",0
-26033,"Chippewa ",0
-26105,"Mason ",0
-26075,"Jackson ",0
-26013,"Baraga ",0
-26125,"Oakland ",0
-26127,"Oceana ",0
-26147,"St. Clair ",0
-26115,"Monroe ",0
-26091,"Lenawee ",0
-26123,"Newaygo ",0
-26081,"Kent ",0
-26053,"Gogebic ",0
-26089,"Leelanau ",0
-27111,"Otter Tail ",0
-27083,"Lyon ",0
-27043,"Faribault ",0
-27159,"Wadena ",0
-27065,"Kanabec ",0
-27131,"Rice ",0
-27031,"Cook ",0
-27095,"Mille Lacs ",0
-27121,"Pope ",0
-27011,"Big Stone ",0
-27165,"Watonwan ",0
-27073,"Lac qui Parle ",0
-27167,"Wilkin ",0
-27133,"Rock ",0
-27171,"Wright ",0
-27017,"Carlton ",0
-27027,"Clay ",0
-27087,"Mahnomen ",0
-27117,"Pipestone ",0
-27105,"Nobles ",0
-27085,"McLeod ",0
-27041,"Douglas ",0
-27023,"Chippewa ",0
-27109,"Olmsted ",0
-27089,"Marshall ",0
-27135,"Roseau ",0
-27101,"Murray ",0
-27071,"Koochiching ",0
-27143,"Sibley ",0
-27039,"Dodge ",0
-27123,"Ramsey ",0
-27113,"Pennington ",0
-27097,"Morrison ",0
-27001,"Aitkin ",0
-27141,"Sherburne ",0
-27079,"Le Sueur ",0
-27155,"Traverse ",0
-27063,"Jackson ",0
-27067,"Kandiyohi ",0
-27099,"Mower ",0
-27145,"Stearns ",0
-27059,"Isanti ",0
-27045,"Fillmore ",0
-27053,"Hennepin ",0
-27173,"Yellow Medicine ",0
-27077,"Lake of the Woods ",0
-27149,"Stevens ",0
-27019,"Carver ",0
-27075,"Lake ",0
-27003,"Anoka ",0
-27007,"Beltrami ",0
-27137,"St. Louis ",0
-27029,"Clearwater ",0
-27057,"Hubbard ",0
-27163,"Washington ",0
-27151,"Swift ",0
-27129,"Renville ",0
-27049,"Goodhue ",0
-27037,"Dakota ",0
-27107,"Norman ",0
-27161,"Waseca ",0
-27139,"Scott ",0
-27169,"Winona ",0
-27081,"Lincoln ",0
-27035,"Crow Wing ",0
-27051,"Grant ",0
-27069,"Kittson ",0
-27093,"Meeker ",0
-27047,"Freeborn ",0
-27157,"Wabasha ",0
-27005,"Becker ",0
-27015,"Brown ",0
-27119,"Polk ",0
-27147,"Steele ",0
-27127,"Redwood ",0
-27021,"Cass ",0
-27061,"Itasca ",0
-27091,"Martin ",0
-27013,"Blue Earth ",0
-27125,"Red Lake ",0
-27153,"Todd ",0
-27115,"Pine ",0
-27025,"Chisago ",0
-27033,"Cottonwood ",0
-27055,"Houston ",0
-27009,"Benton ",0
-27103,"Nicollet ",0
-29089,"Howard ",0
-29155,"Pemiscot ",0
-29129,"Mercer ",0
-29019,"Boone ",0
-29229,"Wright ",0
-29105,"Laclede ",0
-29075,"Gentry ",0
-29211,"Sullivan ",0
-29213,"Taney ",0
-29033,"Carroll ",0
-29001,"Adair ",0
-29085,"Hickory ",0
-29139,"Montgomery ",0
-29149,"Oregon ",0
-29163,"Pike ",0
-29133,"Mississippi ",0
-29087,"Holt ",0
-29121,"Macon ",0
-29071,"Franklin ",0
-29029,"Camden ",0
-29186,"Ste. Genevieve ",0
-29113,"Lincoln ",0
-29119,"McDonald ",0
-29185,"St. Clair ",0
-29007,"Audrain ",0
-29199,"Scotland ",0
-29169,"Pulaski ",0
-29141,"Morgan ",0
-29039,"Cedar ",0
-29013,"Bates ",0
-29179,"Reynolds ",0
-29097,"Jasper ",0
-29195,"Saline ",0
-29023,"Butler ",0
-29027,"Callaway ",0
-29143,"New Madrid ",0
-29115,"Linn ",0
-29003,"Andrew ",0
-29047,"Clay ",0
-29021,"Buchanan ",0
-29223,"Wayne ",0
-29009,"Barry ",0
-29181,"Ripley ",0
-29221,"Washington ",0
-29127,"Marion ",0
-29217,"Vernon ",0
-29043,"Christian ",0
-29069,"Dunklin ",0
-29057,"Dade ",0
-29157,"Perry ",0
-29225,"Webster ",0
-29123,"Madison ",0
-29011,"Barton ",0
-29053,"Cooper ",0
-29051,"Cole ",0
-29091,"Howell ",0
-29101,"Johnson ",0
-29117,"Livingston ",0
-29201,"Scott ",0
-29153,"Ozark ",0
-29107,"Lafayette ",0
-29183,"St. Charles ",0
-29077,"Greene ",0
-29041,"Chariton ",0
-29061,"Daviess ",0
-29197,"Schuyler ",0
-29203,"Shannon ",0
-29125,"Maries ",0
-29145,"Newton ",0
-29063,"DeKalb ",0
-29151,"Osage ",0
-29137,"Monroe ",0
-29175,"Randolph ",0
-29073,"Gasconade ",0
-29109,"Lawrence ",0
-29135,"Moniteau ",0
-29055,"Crawford ",0
-29045,"Clark ",0
-29065,"Dent ",0
-29173,"Ralls ",0
-29207,"Stoddard ",0
-29147,"Nodaway ",0
-29167,"Polk ",0
-29031,"Cape Girardeau ",0
-29177,"Ray ",0
-29111,"Lewis ",0
-29161,"Phelps ",0
-29165,"Platte ",0
-29215,"Texas ",0
-29093,"Iron ",0
-29227,"Worth ",0
-29095,"Jackson ",0
-29035,"Carter ",0
-29059,"Dallas ",0
-29049,"Clinton ",0
-29067,"Douglas ",0
-29015,"Benton ",0
-29103,"Knox ",0
-29005,"Atchison ",0
-29187,"St. Francois ",0
-29025,"Caldwell ",0
-29159,"Pettis ",0
-29099,"Jefferson ",0
-29205,"Shelby ",0
-29017,"Bollinger ",0
-29131,"Miller ",0
-29079,"Grundy ",0
-29081,"Harrison ",0
-29083,"Henry ",0
-29171,"Putnam ",0
-29510,"St. Lou ",0
-29209,"Stone ",0
-29037,"Cass ",0
-29189,"St. Louis ",0
-29219,"Warren ",0
-69100,"Rota Munic ",NA
-69085,"Northern Islands Munic ",NA
-69120,"Tinian Munic ",NA
-69110,"Saipan Munic ",NA
-28013,"Calhoun ",0
-28033,"DeSoto ",0
-28091,"Marion ",0
-28117,"Prentiss ",0
-28119,"Quitman ",0
-28099,"Neshoba ",0
-28039,"George ",0
-28133,"Sunflower ",0
-28127,"Simpson ",0
-28109,"Pearl River ",0
-28045,"Hancock ",0
-28037,"Franklin ",0
-28071,"Lafayette ",0
-28161,"Yalobusha ",0
-28151,"Washington ",0
-28021,"Claiborne ",0
-28153,"Wayne ",0
-28079,"Leake ",0
-28025,"Clay ",0
-28001,"Adams ",0
-28101,"Newton ",0
-28081,"Lee ",0
-28085,"Lincoln ",0
-28041,"Greene ",0
-28055,"Issaquena ",0
-28141,"Tishomingo ",0
-28123,"Scott ",0
-28147,"Walthall ",0
-28145,"Union ",0
-28143,"Tunica ",0
-28111,"Perry ",0
-28155,"Webster ",0
-28049,"Hinds ",0
-28029,"Copiah ",0
-28083,"Leflore ",0
-28137,"Tate ",0
-28035,"Forrest ",0
-28159,"Winston ",0
-28093,"Marshall ",0
-28125,"Sharkey ",0
-28009,"Benton ",0
-28059,"Jackson ",0
-28065,"Jefferson Davis ",0
-28097,"Montgomery ",0
-28057,"Itawamba ",0
-28043,"Grenada ",0
-28061,"Jasper ",0
-28149,"Warren ",0
-28053,"Humphreys ",0
-28005,"Amite ",0
-28139,"Tippah ",0
-28135,"Tallahatchie ",0
-28073,"Lamar ",0
-28015,"Carroll ",0
-28047,"Harrison ",0
-28023,"Clarke ",0
-28107,"Panola ",0
-28075,"Lauderdale ",0
-28103,"Noxubee ",0
-28031,"Covington ",0
-28105,"Oktibbeha ",0
-28113,"Pike ",0
-28069,"Kemper ",0
-28017,"Chickasaw ",0
-28063,"Jefferson ",0
-28121,"Rankin ",0
-28115,"Pontotoc ",0
-28089,"Madison ",0
-28163,"Yazoo ",0
-28077,"Lawrence ",0
-28027,"Coahoma ",0
-28095,"Monroe ",0
-28087,"Lowndes ",0
-28129,"Smith ",0
-28051,"Holmes ",0
-28011,"Bolivar ",0
-28019,"Choctaw ",0
-28131,"Stone ",0
-28003,"Alcorn ",0
-28067,"Jones ",0
-28007,"Attala ",0
-28157,"Wilkinson ",0
-30057,"Madison ",0
-30111,"Yellowstone ",0
-30049,"Lewis and Clark ",0
-30039,"Granite ",0
-30071,"Phillips ",0
-30003,"Big Horn ",0
-30079,"Prairie ",0
-30007,"Broadwater ",0
-30061,"Mineral ",0
-30107,"Wheatland ",0
-30041,"Hill ",0
-30091,"Sheridan ",0
-30101,"Toole ",0
-30011,"Carter ",0
-30103,"Treasure ",0
-30035,"Glacier ",0
-30005,"Blaine ",0
-30093,"Silver Bow ",0
-30053,"Lincoln ",0
-30059,"Meagher ",0
-30095,"Stillwater ",0
-30033,"Garfield ",0
-30069,"Petroleum ",0
-30109,"Wibaux ",0
-30027,"Fergus ",0
-30105,"Valley ",0
-30013,"Cascade ",0
-30025,"Fallon ",0
-30029,"Flathead ",0
-30077,"Powell ",0
-30085,"Roosevelt ",0
-30017,"Custer ",0
-30065,"Musselshell ",0
-30023,"Deer Lodge ",0
-30073,"Pondera ",0
-30089,"Sanders ",0
-30055,"McCone ",0
-30097,"Sweet Grass ",0
-30021,"Dawson ",0
-30099,"Teton ",0
-30081,"Ravalli ",0
-30083,"Richland ",0
-30047,"Lake ",0
-30087,"Rosebud ",0
-30019,"Daniels ",0
-30009,"Carbon ",0
-30063,"Missoula ",0
-30045,"Judith Basin ",0
-30051,"Liberty ",0
-30031,"Gallatin ",0
-30015,"Chouteau ",0
-30037,"Golden Valley ",0
-30075,"Powder River ",0
-30001,"Beaverhead ",0
-30043,"Jefferson ",0
-30067,"Park ",0
-37097,"Iredell ",349.985185089348
-37083,"Halifax ",127.478027776555
-37111,"McDowell ",100.939918881123
-37015,"Bertie ",40.5221077071886
-37005,"Alleghany ",24.8501680971614
-37141,"Pender ",106.255996382127
-37071,"Gaston ",476.182694029643
-37067,"Forsyth ",848.309492065118
-37043,"Clay ",22.6708147382386
-37093,"Hoke ",86.5608547937659
-37013,"Beaufort ",108.087706246105
-37193,"Wilkes ",140.650102939384
-37131,"Northampton ",46.864378593975
-37197,"Yadkin ",86.6405085659591
-37107,"Lenoir ",129.306860951632
-37039,"Cherokee ",56.3077201149614
-37099,"Jackson ",90.9419212298795
-37063,"Durham ",634.131896427764
-37081,"Guilford ",1141.44398200963
-37061,"Duplin ",126.966238669527
-37169,"Stokes ",107.7444649569
-37195,"Wilson ",179.787193906711
-37109,"Lincoln ",175.21864145085
-37187,"Washington ",27.1236458451682
-37019,"Brunswick ",231.661783875089
-37075,"Graham ",18.9653343316705
-37167,"Stanly ",139.351168935545
-37157,"Rockingham ",220.779574869757
-37155,"Robeson ",325.763050482491
-37173,"Swain ",36.2078807018045
-37047,"Columbus ",128.792827155539
-37053,"Currituck ",55.3399322310886
-37159,"Rowan ",274.819832131684
-37113,"Macon ",70.7335086038455
-37145,"Person ",100.98827776498
-37139,"Pasquotank ",93.7628851789909
-37103,"Jones ",12.7896062977159
-37051,"Cumberland ",706.651937803998
-37025,"Cabarrus ",408.407533062982
-37183,"Wake ",2249.75720333725
-37035,"Catawba ",366.864549485857
-37101,"Johnston ",314.245245781943
-37011,"Avery ",29.5678725138682
-37001,"Alamance ",352.971602236405
-37069,"Franklin ",127.756173082848
-37065,"Edgecombe ",113.765418410795
-37123,"Montgomery ",55.2328409488568
-37125,"Moore ",171.359519705305
-37029,"Camden ",20.7278075241682
-37181,"Vance ",101.114198283648
-37041,"Chowan ",31.3523567350705
-37003,"Alexander ",82.2086860052386
-37133,"Onslow ",432.878283328711
-37073,"Gates ",27.6149930265273
-37033,"Caswell ",39.9010698012545
-37077,"Granville ",125.97672306722
-37021,"Buncombe ",537.637028517682
-37179,"Union ",437.859466296941
-37105,"Lee ",151.45834617103
-37089,"Henderson ",228.501762911536
-37057,"Davidson ",304.258166472661
-37147,"Pitt ",416.544530926902
-37023,"Burke ",180.30059570297
-37095,"Hyde ",12.3250646265614
-37137,"Pamlico ",24.4634495779909
-37171,"Surry ",169.39142863575
-37031,"Carteret ",158.477685018007
-37119,"Mecklenburg ",2215.37203195006
-37091,"Hertford ",64.7835352692477
-37085,"Harnett ",271.292466712841
-37163,"Sampson ",126.853677319766
-37045,"Cleveland ",213.734716305341
-37115,"Madison ",48.5296545706091
-37009,"Ashe ",60.2814081752591
-37151,"Randolph ",327.465592656239
-37149,"Polk ",42.4611921636682
-37143,"Perquimans ",28.0575018758795
-37127,"Nash ",231.691640418975
-37007,"Anson ",61.7422866883091
-37185,"Warren ",40.1536953901091
-37129,"New Hanover ",489.803445488482
-37175,"Transylvania ",66.8804235463705
-37191,"Wayne ",280.813762144398
-37087,"Haywood ",126.759400378998
-37189,"Watauga ",142.49246962815
-37177,"Tyrrell ",10.5706112940273
-37153,"Richmond ",101.637690284155
-37049,"Craven ",236.870552162884
-37199,"Yancey ",39.0383900277205
-37027,"Caldwell ",182.987662859645
-37161,"Rutherford ",157.528682784375
-37121,"Mitchell ",40.0091853590795
-37017,"Bladen ",69.9497634302795
-37135,"Orange ",340.370462647834
-37055,"Dare ",80.39818082535
-37165,"Scotland ",80.1850225364795
-37059,"Davie ",89.0693275145659
-37037,"Chatham ",104.681183554159
-37079,"Greene ",41.60219542365
-37117,"Martin ",54.5321710638273
-38067,"Pembina ",0
-38049,"McHenry ",0
-38051,"McIntosh ",0
-38057,"Mercer ",0
-38035,"Grand Forks ",0
-38001,"Adams ",0
-38089,"Stark ",0
-38085,"Sioux ",0
-38041,"Hettinger ",0
-38055,"McLean ",0
-38009,"Bottineau ",0
-38007,"Billings ",0
-38079,"Rolette ",0
-38039,"Griggs ",0
-38031,"Foster ",0
-38083,"Sheridan ",0
-38015,"Burleigh ",0
-38017,"Cass ",0
-38029,"Emmons ",0
-38097,"Traill ",0
-38091,"Steele ",0
-38099,"Walsh ",0
-38071,"Ramsey ",0
-38105,"Williams ",0
-38077,"Richland ",0
-38075,"Renville ",0
-38081,"Sargent ",0
-38019,"Cavalier ",0
-38063,"Nelson ",0
-38021,"Dickey ",0
-38061,"Mountrail ",0
-38025,"Dunn ",0
-38033,"Golden Valley ",0
-38011,"Bowman ",0
-38047,"Logan ",0
-38059,"Morton ",0
-38053,"McKenzie ",0
-38065,"Oliver ",0
-38043,"Kidder ",0
-38101,"Ward ",0
-38103,"Wells ",0
-38023,"Divide ",0
-38005,"Benson ",0
-38093,"Stutsman ",0
-38045,"LaMoure ",0
-38027,"Eddy ",0
-38069,"Pierce ",0
-38073,"Ransom ",0
-38003,"Barnes ",0
-38037,"Grant ",0
-38013,"Burke ",0
-38087,"Slope ",0
-38095,"Towner ",0
-31127,"Nemaha ",0
-31183,"Wheeler ",0
-31027,"Cedar ",0
-31051,"Dixon ",0
-31035,"Clay ",0
-31103,"Keya Paha ",0
-31147,"Richardson ",0
-31159,"Seward ",0
-31157,"Scotts Bluff ",0
-31123,"Morrill ",0
-31089,"Holt ",0
-31115,"Loup ",0
-31087,"Hitchcock ",0
-31135,"Perkins ",0
-31021,"Burt ",0
-31163,"Sherman ",0
-31011,"Boone ",0
-31167,"Stanton ",0
-31043,"Dakota ",0
-31137,"Phelps ",0
-31153,"Sarpy ",0
-31079,"Hall ",0
-31065,"Furnas ",0
-31037,"Colfax ",0
-31145,"Red Willow ",0
-31105,"Kimball ",0
-31109,"Lancaster ",0
-31075,"Grant ",0
-31017,"Brown ",0
-31179,"Wayne ",0
-31129,"Nuckolls ",0
-31057,"Dundy ",0
-31121,"Merrick ",0
-31005,"Arthur ",0
-31071,"Garfield ",0
-31099,"Kearney ",0
-31067,"Gage ",0
-31161,"Sheridan ",0
-31093,"Howard ",0
-31077,"Greeley ",0
-31047,"Dawson ",0
-31059,"Fillmore ",0
-31177,"Washington ",0
-31001,"Adams ",0
-31023,"Butler ",0
-31151,"Saline ",0
-31049,"Deuel ",0
-31039,"Cuming ",0
-31063,"Frontier ",0
-31131,"Otoe ",0
-31113,"Logan ",0
-31073,"Gosper ",0
-31173,"Thurston ",0
-31149,"Rock ",0
-31171,"Thomas ",0
-31169,"Thayer ",0
-31007,"Banner ",0
-31143,"Polk ",0
-31139,"Pierce ",0
-31031,"Cherry ",0
-31097,"Johnson ",0
-31081,"Hamilton ",0
-31013,"Box Butte ",0
-31009,"Blaine ",0
-31111,"Lincoln ",0
-31053,"Dodge ",0
-31091,"Hooker ",0
-31085,"Hayes ",0
-31015,"Boyd ",0
-31125,"Nance ",0
-31175,"Valley ",0
-31141,"Platte ",0
-31181,"Webster ",0
-31107,"Knox ",0
-31069,"Garden ",0
-31095,"Jefferson ",0
-31025,"Cass ",0
-31003,"Antelope ",0
-31045,"Dawes ",0
-31133,"Pawnee ",0
-31061,"Franklin ",0
-31185,"York ",0
-31033,"Cheyenne ",0
-31155,"Saunders ",0
-31029,"Chase ",0
-31083,"Harlan ",0
-31055,"Douglas ",0
-31019,"Buffalo ",0
-31165,"Sioux ",0
-31119,"Madison ",0
-31101,"Keith ",0
-31117,"McPherson ",0
-31041,"Custer ",0
-33001,"Belknap ",0
-33005,"Cheshire ",0
-33015,"Rockingham ",0
-33003,"Carroll ",0
-33009,"Grafton ",0
-33017,"Strafford ",0
-33019,"Sullivan ",0
-33013,"Merrimack ",0
-33011,"Hillsborough ",0
-33007,"Coos ",0
-34001,"Atlantic ",0
-34039,"Union ",0
-34021,"Mercer ",0
-34027,"Morris ",0
-34005,"Burlington ",0
-34017,"Hudson ",0
-34003,"Bergen ",0
-34007,"Camden ",0
-34019,"Hunterdon ",0
-34015,"Gloucester ",0
-34037,"Sussex ",0
-34013,"Essex ",0
-34031,"Passaic ",0
-34033,"Salem ",0
-34041,"Warren ",0
-34023,"Middlesex ",0
-34029,"Ocean ",0
-34025,"Monmouth ",0
-34035,"Somerset ",0
-34011,"Cumberland ",0
-34009,"Cape May ",0
-35007,"Colfax ",96.459
-35021,"Harding ",4.192575
-35001,"Bernalillo ",4990.07631
-35059,"Union ",33.39984
-35023,"Hidalgo ",33.29049
-35039,"Rio Arriba ",336.15525
-35057,"Torrance ",98.74893
-35041,"Roosevelt ",145.46667
-35017,"Grant ",199.733355
-35043,"Sandoval ",963.92352
-35045,"San Juan ",910.038
-35027,"Lincoln ",144.325755
-35033,"Mora ",34.376415
-35029,"Luna ",160.07277
-35006,"Cibola ",218.54151
-35055,"Taos ",245.89125
-35011,"De Baca ",1.1865
-35025,"Lea ",458.59998
-35019,"Guadalupe ",35.352345
-35005,"Chaves ",450.960105
-35003,"Catron ",26.377575
-35015,"Eddy ",380.4579
-35013,"Dona Ana ",1463.31903
-35047,"San Miguel ",214.609695
-35061,"Valencia ",544.198605
-35051,"Sierra ",72.472035
-35028,"Los Alamos ",130.321845
-35037,"Quay ",61.002
-35053,"Socorro ",130.95741
-35009,"Curry ",348.891645
-35031,"McKinley ",481.541445
-35035,"Otero ",505.331625
-35049,"Santa Fe ",1079.72886
-32019,"Lyon ",0
-32015,"Lander ",0
-32007,"Elko ",0
-32023,"Nye ",0
-32031,"Washoe ",0
-32005,"Douglas ",0
-32510,"Cars ",0
-32009,"Esmeralda ",0
-32011,"Eureka ",0
-32021,"Mineral ",0
-32017,"Lincoln ",0
-32001,"Churchill ",0
-32029,"Storey ",0
-32027,"Pershing ",0
-32033,"White Pine ",0
-32003,"Clark ",0
-32013,"Humboldt ",0
-36005,"Bronx ",0
-36001,"Albany ",0
-36009,"Cattaraugus ",0
-36011,"Cayuga ",0
-36121,"Wyoming ",0
-36069,"Ontario ",0
-36073,"Orleans ",0
-36017,"Chenango ",0
-36037,"Genesee ",0
-36003,"Allegany ",0
-36035,"Fulton ",0
-36087,"Rockland ",0
-36013,"Chautauqua ",0
-36015,"Chemung ",0
-36067,"Onondaga ",0
-36019,"Clinton ",0
-36091,"Saratoga ",0
-36033,"Franklin ",0
-36045,"Jefferson ",0
-36055,"Monroe ",0
-36111,"Ulster ",0
-36051,"Livingston ",0
-36027,"Dutchess ",0
-36023,"Cortland ",0
-36081,"Queens ",0
-36071,"Orange ",0
-36103,"Suffolk ",0
-36107,"Tioga ",0
-36089,"St. Lawrence ",0
-36057,"Montgomery ",0
-36039,"Greene ",0
-36119,"Westchester ",0
-36007,"Broome ",0
-36105,"Sullivan ",0
-36065,"Oneida ",0
-36047,"Kings ",0
-36053,"Madison ",0
-36115,"Washington ",0
-36083,"Rensselaer ",0
-36095,"Schoharie ",0
-36117,"Wayne ",0
-36063,"Niagara ",0
-36043,"Herkimer ",0
-36109,"Tompkins ",0
-36077,"Otsego ",0
-36029,"Erie ",0
-36079,"Putnam ",0
-36031,"Essex ",0
-36099,"Seneca ",0
-36021,"Columbia ",0
-36049,"Lewis ",0
-36075,"Oswego ",0
-36059,"Nassau ",0
-36025,"Delaware ",0
-36041,"Hamilton ",0
-36123,"Yates ",0
-36061,"New York ",0
-36097,"Schuyler ",0
-36085,"Richmond ",0
-36093,"Schenectady ",0
-36113,"Warren ",0
-36101,"Steuben ",0
-39079,"Jackson ",1.01922948
-39099,"Mahoning ",7.1964702
-39135,"Preble ",1.25927064
-39089,"Licking ",4.64100408
-39151,"Stark ",11.49420528
-39033,"Crawford ",1.34782632
-39159,"Union ",1.34208864
-39007,"Ashtabula ",3.11530428
-39071,"Highland ",1.2807558
-39093,"Lorain ",9.05386572
-39107,"Mercer ",1.19179188
-39043,"Erie ",2.42252892
-39113,"Montgomery ",17.04096756
-39175,"Wyandot ",0.72268848
-39077,"Huron ",1.86105852
-39155,"Trumbull ",6.1748406
-39053,"Gallia ",0.989019
-39017,"Butler ",11.48596884
-39161,"Van Wert ",0.70638012
-39015,"Brown ",1.207449
-39023,"Clark ",4.14189936
-39109,"Miami ",3.0016422
-39009,"Athens ",2.56710672
-39123,"Ottawa ",1.186704
-39057,"Greene ",4.8117222
-39117,"Morrow ",0.79802676
-39051,"Fulton ",1.456866
-39047,"Fayette ",0.79834932
-39049,"Franklin ",39.331134
-39127,"Perry ",1.21865004
-39157,"Tuscarawas ",2.7739584
-39059,"Guernsey ",1.2120804
-39019,"Carroll ",0.67457448
-39031,"Coshocton ",1.00577088
-39137,"Putnam ",1.07247708
-39069,"Henry ",0.82948752
-39067,"Harrison ",0.43467552
-39075,"Holmes ",1.13514192
-39147,"Seneca ",1.9305774
-39037,"Darke ",1.56102984
-39081,"Jefferson ",2.24548632
-39143,"Sandusky ",2.02384404
-39035,"Cuyahoga ",39.82261428
-39003,"Allen ",3.50119332
-39091,"Logan ",1.48171212
-39139,"Richland ",3.78314748
-39005,"Ashland ",1.55495484
-39153,"Summit ",17.09918244
-39133,"Portage ",5.58590688
-39029,"Columbiana ",3.4390854
-39021,"Champaign ",1.21252068
-39105,"Meigs ",0.67570992
-39055,"Geauga ",2.59451172
-39083,"Knox ",1.8828648
-39167,"Washington ",1.94644944
-39013,"Belmont ",2.16574668
-39119,"Muskingum ",2.80813788
-39001,"Adams ",0.94634064
-39121,"Noble ",0.35893044
-39041,"Delaware ",5.4473742
-39073,"Hocking ",0.83352024
-39129,"Pickaway ",1.76004432
-39115,"Morgan ",0.39094848
-39103,"Medina ",5.27710608
-39111,"Monroe ",0.41773536
-39087,"Lawrence ",1.90104552
-39061,"Hamilton ",25.80914232
-39125,"Paulding ",0.54440784
-39045,"Fairfield ",4.10578056
-39169,"Wayne ",3.64260816
-39039,"Defiance ",1.16850348
-39063,"Hancock ",2.13379812
-39145,"Scioto ",2.5256934
-39101,"Marion ",2.1478608
-39163,"Vinton ",0.31967136
-39065,"Hardin ",1.03259952
-39085,"Lake ",7.10751492
-39171,"Williams ",1.18853856
-39011,"Auglaize ",1.33420284
-39095,"Lucas ",13.77639864
-39131,"Pike ",0.78629256
-39149,"Shelby ",1.3954032
-39025,"Clermont ",6.43343724
-39027,"Clinton ",1.4597982
-39141,"Ross ",2.53315872
-39165,"Warren ",6.10494228
-39173,"Wood ",4.14852228
-39097,"Madison ",1.65102444
-40079,"Le Flore ",0
-40001,"Adair ",0
-40045,"Ellis ",0
-40051,"Grady ",0
-40105,"Nowata ",0
-40025,"Cimarron ",0
-40095,"Marshall ",0
-40119,"Payne ",0
-40037,"Creek ",0
-40151,"Woods ",0
-40145,"Wagoner ",0
-40137,"Stephens ",0
-40109,"Oklahoma ",0
-40083,"Logan ",0
-40097,"Mayes ",0
-40063,"Hughes ",0
-40061,"Haskell ",0
-40007,"Beaver ",0
-40065,"Jackson ",0
-40135,"Sequoyah ",0
-40003,"Alfalfa ",0
-40009,"Beckham ",0
-40069,"Johnston ",0
-40127,"Pushmataha ",0
-40041,"Delaware ",0
-40033,"Cotton ",0
-40043,"Dewey ",0
-40075,"Kiowa ",0
-40125,"Pottawatomie ",0
-40057,"Harmon ",0
-40141,"Tillman ",0
-40101,"Muskogee ",0
-40153,"Woodward ",0
-40113,"Osage ",0
-40139,"Texas ",0
-40111,"Okmulgee ",0
-40049,"Garvin ",0
-40035,"Craig ",0
-40115,"Ottawa ",0
-40015,"Caddo ",0
-40017,"Canadian ",0
-40131,"Rogers ",0
-40027,"Cleveland ",0
-40055,"Greer ",0
-40117,"Pawnee ",0
-40089,"McCurtain ",0
-40067,"Jefferson ",0
-40123,"Pontotoc ",0
-40059,"Harper ",0
-40133,"Seminole ",0
-40085,"Love ",0
-40071,"Kay ",0
-40021,"Cherokee ",0
-40093,"Major ",0
-40031,"Comanche ",0
-40013,"Bryan ",0
-40121,"Pittsburg ",0
-40005,"Atoka ",0
-40011,"Blaine ",0
-40081,"Lincoln ",0
-40129,"Roger Mills ",0
-40107,"Okfuskee ",0
-40103,"Noble ",0
-40047,"Garfield ",0
-40091,"McIntosh ",0
-40053,"Grant ",0
-40019,"Carter ",0
-40073,"Kingfisher ",0
-40087,"McClain ",0
-40147,"Washington ",0
-40143,"Tulsa ",0
-40029,"Coal ",0
-40149,"Washita ",0
-40023,"Choctaw ",0
-40099,"Murray ",0
-40039,"Custer ",0
-40077,"Latimer ",0
-41005,"Clackamas ",0
-41037,"Lake ",0
-41019,"Douglas ",0
-41029,"Jackson ",0
-41027,"Hood River ",0
-41011,"Coos ",0
-41069,"Wheeler ",0
-41045,"Malheur ",0
-41047,"Marion ",0
-41063,"Wallowa ",0
-41023,"Grant ",0
-41051,"Multnomah ",0
-41015,"Curry ",0
-41001,"Baker ",0
-41043,"Linn ",0
-41059,"Umatilla ",0
-41055,"Sherman ",0
-41025,"Harney ",0
-41071,"Yamhill ",0
-41039,"Lane ",0
-41061,"Union ",0
-41053,"Polk ",0
-41021,"Gilliam ",0
-41035,"Klamath ",0
-41057,"Tillamook ",0
-41031,"Jefferson ",0
-41041,"Lincoln ",0
-41067,"Washington ",0
-41065,"Wasco ",0
-41003,"Benton ",0
-41013,"Crook ",0
-41007,"Clatsop ",0
-41017,"Deschutes ",0
-41049,"Morrow ",0
-41033,"Josephine ",0
-41009,"Columbia ",0
-42049,"Erie ",215.198942474919
-42097,"Northumberland ",69.2222498060757
-42005,"Armstrong ",35.8447257361081
-42075,"Lebanon ",98.1442412060324
-42011,"Berks ",304.876413987113
-42033,"Clearfield ",58.3961414108757
-42117,"Tioga ",31.5594592522811
-42031,"Clarion ",33.0170475133622
-42057,"Fulton ",10.5519164765838
-42013,"Blair ",95.3964352841297
-42083,"McKean ",0.120410503783784
-42065,"Jefferson ",33.7727667704432
-42067,"Juniata ",16.7648977876541
-42007,"Beaver ",121.274372697319
-42025,"Carbon ",48.6513097832649
-42095,"Northampton ",216.134780555438
-42127,"Wayne ",35.4115346141622
-42079,"Luzerne ",237.799726456238
-42085,"Mercer ",80.8895211340973
-42073,"Lawrence ",71.5874752431784
-42109,"Snyder ",26.7353366512432
-42099,"Perry ",36.5057602891027
-42003,"Allegheny ",926.196543902054
-42027,"Centre ",136.697821021708
-42053,"Forest ",6.69327587532973
-42063,"Indiana ",74.4302812300108
-42093,"Montour ",13.5416710599784
-42121,"Venango ",38.2808595809946
-42017,"Bucks ",462.960984863935
-42051,"Fayette ",98.4783803540324
-42077,"Lehigh ",269.916829686876
-42009,"Bedford ",35.1305003208865
-42113,"Sullivan ",4.10093329275676
-42021,"Cambria ",107.274864587676
-42041,"Cumberland ",196.43574636947
-42105,"Potter ",12.3281434224
-42059,"Greene ",30.2830983557838
-42131,"Wyoming ",24.2643028730378
-42107,"Schuylkill ",110.219990833557
-42029,"Chester ",391.929299659611
-42015,"Bradford ",44.9211739474378
-42001,"Adams ",69.1359269425297
-42071,"Lancaster ",377.068302177341
-42119,"Union ",37.7166312504865
-42043,"Dauphin ",201.025087600908
-42069,"Lackawanna ",158.770710064216
-42019,"Butler ",140.855156123459
-42039,"Crawford ",67.6464012287784
-42133,"York ",325.770895122314
-42023,"Cameron ",3.62125033740541
-42111,"Somerset ",58.0024086198919
-42055,"Franklin ",100.335721931286
-42037,"Columbia ",55.6571655925838
-42103,"Pike ",44.1561945492324
-42045,"Delaware ",418.786069348281
-42115,"Susquehanna ",30.6389687328
-42101,"Philadelphia ",1201.39175915008
-42129,"Westmoreland ",287.0226994408
-42035,"Clinton ",28.4387247986595
-42081,"Lycoming ",89.0256779875459
-42047,"Elk ",23.1914452843243
-42061,"Huntingdon ",35.2340915796973
-42087,"Mifflin ",33.6542484317189
-42125,"Washington ",157.164261928735
-42089,"Monroe ",129.795804937319
-42091,"Montgomery ",591.12728209866
-42123,"Warren ",29.2158981494703
-72013,"Arecibo Mu ",NA
-72065,"Hatillo Mu ",NA
-72141,"Utuado Mu ",NA
-72041,"Cidra Mu ",NA
-72101,"Morovis Mu ",NA
-72025,"Caguas Mu ",NA
-72035,"Cayey Mu ",NA
-72015,"Arroyo Mu ",NA
-72031,"Carolina Mu ",NA
-72039,"Ciales Mu ",NA
-72061,"Guaynabo Mu ",NA
-72091,"Manati Mu ",NA
-72151,"Yabucoa Mu ",NA
-72135,"Toa Alta Mu ",NA
-72011,"Anasco Mu ",NA
-72093,"Maricao Mu ",NA
-72077,"Juncos Mu ",NA
-72063,"Gurabo Mu ",NA
-72023,"Cabo Rojo Mu ",NA
-72019,"Barranquitas Mu ",NA
-72005,"Aguadilla Mu ",NA
-72113,"Ponce Mu ",NA
-72143,"Vega Alta Mu ",NA
-72083,"Las Marias Mu ",NA
-72137,"Toa Baja Mu ",NA
-72027,"Camuy Mu ",NA
-72115,"Quebradillas Mu ",NA
-72055,"Guanica Mu ",NA
-72125,"San German Mu ",NA
-72007,"Aguas Buenas Mu ",NA
-72087,"Loiza Mu ",NA
-72111,"Penuelas Mu ",NA
-72079,"Lajas Mu ",NA
-72017,"Barceloneta Mu ",NA
-72075,"Juana Diaz Mu ",NA
-72119,"Rio Grande Mu ",NA
-72081,"Lares Mu ",NA
-72121,"Sabana Grande Mu ",NA
-72053,"Fajardo Mu ",NA
-72109,"Patillas Mu ",NA
-72069,"Humacao Mu ",NA
-72071,"Isabela Mu ",NA
-72001,"Adjuntas Mu ",NA
-72129,"San Lorenzo Mu ",NA
-72139,"Trujillo Alto Mu ",NA
-72127,"San Juan Mu ",NA
-72033,"Catano Mu ",NA
-72037,"Ceiba Mu ",NA
-72123,"Salinas Mu ",NA
-72099,"Moca Mu ",NA
-72054,"Florida Mu ",NA
-72103,"Naguabo Mu ",NA
-72133,"Santa Isabel Mu ",NA
-72117,"Rincon Mu ",NA
-72089,"Luquillo Mu ",NA
-72153,"Yauco Mu ",NA
-72049,"Culebra Mu ",NA
-72021,"Bayamon Mu ",NA
-72045,"Comerio Mu ",NA
-72003,"Aguada Mu ",NA
-72051,"Dorado Mu ",NA
-72145,"Vega Baja Mu ",NA
-72009,"Aibonito Mu ",NA
-72047,"Corozal Mu ",NA
-72131,"San Sebastian Mu ",NA
-72107,"Orocovis Mu ",NA
-72085,"Las Piedras Mu ",NA
-72057,"Guayama Mu ",NA
-72043,"Coamo Mu ",NA
-72067,"Hormigueros Mu ",NA
-72029,"Canovanas Mu ",NA
-72073,"Jayuya Mu ",NA
-72097,"Mayaguez Mu ",NA
-72149,"Villalba Mu ",NA
-72095,"Maunabo Mu ",NA
-72059,"Guayanilla Mu ",NA
-72105,"Naranjito Mu ",NA
-72147,"Vieques Mu ",NA
-44007,"Providence ",0
-44001,"Bristol ",0
-44005,"Newport ",0
-44009,"Washington ",0
-44003,"Kent ",0
-45001,"Abbeville ",0
-45089,"Williamsburg ",0
-45015,"Berkeley ",0
-45033,"Dillon ",0
-45057,"Lancaster ",0
-45017,"Calhoun ",0
-45083,"Spartanburg ",0
-45013,"Beaufort ",0
-45077,"Pickens ",0
-45085,"Sumter ",0
-45011,"Barnwell ",0
-45009,"Bamberg ",0
-45021,"Cherokee ",0
-45003,"Aiken ",0
-45079,"Richland ",0
-45029,"Colleton ",0
-45031,"Darlington ",0
-45081,"Saluda ",0
-45023,"Chester ",0
-45041,"Florence ",0
-45075,"Orangeburg ",0
-45025,"Chesterfield ",0
-45049,"Hampton ",0
-45069,"Marlboro ",0
-45087,"Union ",0
-45047,"Greenwood ",0
-45055,"Kershaw ",0
-45037,"Edgefield ",0
-45073,"Oconee ",0
-45059,"Laurens ",0
-45091,"York ",0
-45067,"Marion ",0
-45053,"Jasper ",0
-45045,"Greenville ",0
-45071,"Newberry ",0
-45043,"Georgetown ",0
-45063,"Lexington ",0
-45007,"Anderson ",0
-45065,"McCormick ",0
-45005,"Allendale ",0
-45061,"Lee ",0
-45027,"Clarendon ",0
-45035,"Dorchester ",0
-45051,"Horry ",0
-45019,"Charleston ",0
-45039,"Fairfield ",0
-46105,"Perkins ",0
-46129,"Walworth ",0
-46099,"Minnehaha ",0
-46019,"Butte ",0
-46093,"Meade ",0
-46061,"Hanson ",0
-46067,"Hutchinson ",0
-46071,"Jackson ",0
-46055,"Haakon ",0
-46037,"Day ",0
-46027,"Clay ",0
-46011,"Brookings ",0
-46005,"Beadle ",0
-46121,"Todd ",0
-46065,"Hughes ",0
-46057,"Hamlin ",0
-46029,"Codington ",0
-46007,"Bennett ",0
-46115,"Spink ",0
-46091,"Marshall ",0
-46135,"Yankton ",0
-46069,"Hyde ",0
-46085,"Lyman ",0
-46125,"Turner ",0
-46089,"McPherson ",0
-46073,"Jerauld ",0
-46023,"Charles Mix ",0
-46031,"Corson ",0
-46117,"Stanley ",0
-46107,"Potter ",0
-46111,"Sanborn ",0
-46013,"Brown ",0
-46103,"Pennington ",0
-46063,"Harding ",0
-46051,"Grant ",0
-46119,"Sully ",0
-46015,"Brule ",0
-46047,"Fall River ",0
-46043,"Douglas ",0
-46077,"Kingsbury ",0
-46059,"Hand ",0
-46049,"Faulk ",0
-46045,"Edmunds ",0
-46095,"Mellette ",0
-46079,"Lake ",0
-46081,"Lawrence ",0
-46039,"Deuel ",0
-46053,"Gregory ",0
-46113,"Shannon ",0
-46123,"Tripp ",0
-46083,"Lincoln ",0
-46035,"Davison ",0
-46101,"Moody ",0
-46127,"Union ",0
-46009,"Bon Homme ",0
-46075,"Jones ",0
-46041,"Dewey ",0
-46025,"Clark ",0
-46021,"Campbell ",0
-46087,"McCook ",0
-46137,"Ziebach ",0
-46003,"Aurora ",0
-46097,"Miner ",0
-46033,"Custer ",0
-46109,"Roberts ",0
-46017,"Buffalo ",0
-47117,"Marshall ",9.95866161268904
-47041,"DeKalb ",6.24193839973603
-47073,"Hawkins ",17.5001394204518
-47133,"Overton ",5.88250329680712
-47057,"Grainger ",7.72194986211753
-47027,"Clay ",1.61059607945274
-47163,"Sullivan ",51.1478873554753
-47033,"Crockett ",4.59779999707479
-47083,"Houston ",2.52644295921931
-47089,"Jefferson ",17.2554475220314
-47143,"Rhea ",11.3252499882756
-47017,"Carroll ",10.2060273266374
-47175,"Van Buren ",1.1944252974289
-47023,"Chester ",4.79438840106781
-47029,"Cocke ",11.9735600072814
-47045,"Dyer ",11.8592722328903
-47021,"Cheatham ",12.7213468774594
-47013,"Campbell ",12.1228025678718
-47189,"Wilson ",35.0220408449925
-47015,"Cannon ",4.49165749588931
-47159,"Smith ",5.69343053912931
-47137,"Pickett ",1.58769025317959
-47055,"Giles ",9.20333181236384
-47139,"Polk ",5.57155785946507
-47121,"Meigs ",3.76960767423493
-47115,"Marion ",8.8386414236563
-47109,"McNairy ",9.04015770744493
-47097,"Lauderdale ",9.86003685657507
-47085,"Humphreys ",5.91213563702616
-47179,"Washington ",45.4789220185511
-47087,"Jackson ",3.06284729223603
-47095,"Lake ",3.00419125112534
-47043,"Dickson ",16.358669942019
-47099,"Lawrence ",13.7189487101896
-47035,"Cumberland ",14.7450306659293
-47111,"Macon ",5.90346567474521
-47181,"Wayne ",6.00462572847123
-47173,"Union ",5.06476278034808
-47051,"Franklin ",12.1088164558795
-47125,"Montgomery ",56.0087874424899
-47171,"Unicoi ",5.87039137419192
-47079,"Henry ",9.79023641950411
-47129,"Morgan ",5.87999108551438
-47167,"Tipton ",19.3487470570177
-47151,"Scott ",7.55454676325137
-47065,"Hamilton ",113.594252963846
-47011,"Bradley ",33.5128377812152
-47039,"Decatur ",3.24861031122657
-47071,"Hardin ",7.21865760726753
-47153,"Sequatchie ",3.49664133092247
-47075,"Haywood ",5.4134879298711
-47049,"Fentress ",5.28652576617603
-47149,"Rutherford ",89.415763955864
-47141,"Putnam ",27.3949967428229
-47061,"Grundy ",4.37328764049205
-47069,"Hardeman ",9.5890601342363
-47187,"Williamson ",66.6806966929053
-47119,"Maury ",23.0253252594381
-47067,"Hancock ",1.79634650590548
-47081,"Hickman ",8.34338950419685
-47155,"Sevier ",30.2974172021385
-47009,"Blount ",37.9513316812345
-47047,"Fayette ",11.3698044857974
-47007,"Bledsoe ",3.3520664043463
-47135,"Perry ",2.46159138950699
-47161,"Stewart ",4.36668915068055
-47105,"Loudon ",17.2315888603974
-47183,"Weakley ",11.354836155856
-47019,"Carter ",14.9314904720119
-47147,"Robertson ",21.3947028473577
-47145,"Roane ",18.3327874029195
-47127,"Moore ",0.910927394996164
-47185,"White ",8.65054039014603
-47063,"Hamblen ",21.1460988671915
-47005,"Benton ",5.24877963409589
-47107,"McMinn ",15.9103546084834
-47003,"Bedford ",14.0067280754771
-47101,"Lewis ",3.28719174831466
-47037,"Davidson ",229.686720614658
-47113,"Madison ",32.010543823182
-47177,"Warren ",13.390289769664
-47157,"Shelby ",309.972506389647
-47093,"Knox ",148.05774339933
-47091,"Johnson ",6.46287447558123
-47031,"Coffee ",18.1197447495237
-47165,"Sumner ",48.072384562742
-47131,"Obion ",9.71626575366233
-47025,"Claiborne ",11.322160619
-47059,"Greene ",21.4886578707011
-47077,"Henderson ",8.71947194210822
-47053,"Gibson ",17.0603618275501
-47169,"Trousdale ",2.27111036635096
-47103,"Lincoln ",10.9137489390223
-47123,"Monroe ",14.1197838799193
-47001,"Anderson ",23.2434259155201
-48245,"Jefferson ",1149.84619821889
-48083,"Coleman ",36.0324295282376
-48483,"Wheeler ",23.0149791487959
-48033,"Borden ",0.883614245580414
-48495,"Winkler ",29.9335654078129
-48051,"Burleson ",71.679467304749
-48427,"Starr ",245.411168915664
-48471,"Walker ",364.590566114242
-48011,"Armstrong ",7.05758557687946
-48047,"Brooks ",30.2305957349811
-48217,"Hill ",143.044345281296
-48449,"Titus ",133.825869738462
-48377,"Presidio ",30.3624581685523
-48151,"Fisher ",13.9163579485033
-48345,"Motley ",4.23681702368044
-48131,"Duval ",53.4565094639399
-48281,"Lampasas ",88.7857859636752
-48239,"Jackson ",56.2185969685222
-48039,"Brazoria ",1484.3112960366
-48207,"Haskell ",23.8820539482411
-48053,"Burnet ",148.814572872691
-48439,"Tarrant ",7993.92508449365
-48493,"Wilson ",170.347005914832
-48235,"Irion ",6.69507716843621
-48229,"Hudspeth ",13.6986263356821
-48413,"Schleicher ",13.8765953074522
-48411,"San Saba ",24.8755535551309
-48045,"Briscoe ",6.49116618868688
-48031,"Blanco ",41.8845613631656
-48269,"King ",1.24612265402366
-48293,"Limestone ",99.4789910256075
-48111,"Dallam ",52.7158594719393
-48215,"Hidalgo ",3130.50480008313
-48059,"Callahan ",53.003940372774
-48007,"Aransas ",80.0956664261471
-48017,"Bailey ",29.7390569899076
-48139,"Ellis ",692.776905013838
-48105,"Crockett ",16.2685843837894
-48035,"Bosque ",76.8833887918294
-48417,"Shackelford ",12.8419736529796
-48157,"Fort Bend ",2463.68655577853
-48077,"Clay ",31.7448613273751
-48201,"Harris ",18992.5630786502
-48195,"Hansford ",24.1924517729706
-48423,"Smith ",923.679807720338
-48147,"Fannin ",146.100291164472
-48379,"Rains ",41.3386463568256
-48127,"Dimmit ",39.315622869957
-48287,"Lee ",67.3047838019825
-48097,"Cooke ",148.822502744126
-48203,"Harrison ",236.477262473458
-48443,"Terrell ",3.84032345194564
-48153,"Floyd ",24.6467201223011
-48273,"Kleberg ",148.48265111121
-48357,"Ochiltree ",41.6223091864325
-48401,"Rusk ",203.116519915447
-48029,"Bexar ",7757.66974513649
-48343,"Morris ",56.9777122325778
-48103,"Crane ",17.8959072860667
-48299,"Llano ",85.990166431312
-48309,"McLennan ",1069.84727622425
-48315,"Marion ",46.1442617301291
-48181,"Grayson ",541.949957338776
-48305,"Lynn ",23.9731341858625
-48213,"Henderson ",357.048578676581
-48163,"Frio ",80.6902934998717
-48313,"Madison ",60.5207787896
-48095,"Concho ",20.7265315366203
-48425,"Somervell ",36.270778806789
-48185,"Grimes ",129.339488332344
-48221,"Hood ",219.082523062064
-48415,"Scurry ",75.1658919229519
-48465,"Val Verde ",204.376689770298
-48091,"Comal ",551.683987808743
-48283,"La Salle ",29.8456571187654
-48145,"Falls ",71.0842738116362
-48089,"Colorado ",88.9000893962125
-48093,"Comanche ",49.8423006317607
-48013,"Atascosa ",194.314136055179
-48319,"Mason ",15.6857388333393
-48499,"Wood ",188.938816061232
-48073,"Cherokee ",186.701912613382
-48193,"Hamilton ",37.0107490955238
-48081,"Coke ",12.0711901495272
-48367,"Parker ",456.764333006453
-48331,"Milam ",98.3162453055258
-48009,"Archer ",27.1437233532092
-48199,"Hardin ",240.03664190886
-48087,"Collingsworth ",10.7393116001312
-48117,"Deaf Smith ",79.4006698368349
-48271,"Kinney ",15.0186100779261
-48253,"Jones ",49.7151961210503
-48279,"Lamb ",55.3966091523771
-48409,"San Patricio ",297.398159918877
-48329,"Midland ",597.472085027577
-48261,"Kenedy ",0.934591990517745
-48445,"Terry ",55.0927817925506
-48057,"Calhoun ",90.0571709224123
-48371,"Pecos ",71.1490721896455
-48429,"Stephens ",38.9372547186444
-48477,"Washington ",145.788080797701
-48137,"Edwards ",8.02049853680683
-48025,"Bee ",152.944903051391
-48387,"Red River ",54.2476840653673
-48121,"Denton ",3408.04667521341
-48363,"Palo Pinto ",133.887722735652
-48431,"Sterling ",5.17707320808011
-48455,"Trinity ",58.1329812167354
-48459,"Upshur ",152.319576046827
-48225,"Houston ",108.016177328324
-48251,"Johnson ",723.34757894949
-48243,"Jeff Davis ",9.43654700728826
-48285,"Lavaca ",96.2735104239481
-48359,"Oldham ",10.6146993347288
-48463,"Uvalde ",108.030790948539
-48005,"Angelina ",374.810697703156
-48451,"Tom Green ",494.543373360121
-48021,"Bastrop ",337.638179230365
-48141,"El Paso ",3457.40480055214
-48275,"Knox ",13.9560073056768
-48311,"McMullen ",3.25124728822537
-48113,"Dallas ",11144.8573466764
-48397,"Rockwall ",345.941434325757
-48403,"Sabine ",43.6990292313017
-48383,"Reagan ",14.7624752305854
-48267,"Kimble ",17.9345370883414
-48355,"Nueces ",1521.93944226526
-48191,"Hall ",12.8209028517389
-48481,"Wharton ",175.35052822237
-48233,"Hutchinson ",96.8961186154494
-48361,"Orange ",373.192777362723
-48101,"Cottle ",5.60755194310647
-48479,"Webb ",1031.56412261509
-48177,"Gonzales ",82.135229359151
-48237,"Jack ",39.2956849074927
-48183,"Gregg ",648.129236591191
-48289,"Leon ",81.6661208218499
-48291,"Liberty ",334.22618211977
-48219,"Hockley ",95.3470748726204
-48301,"Loving ",0.54376261266487
-48323,"Maverick ",219.117187928622
-48249,"Jim Wells ",175.122261208928
-48211,"Hemphill ",15.4139708108845
-48115,"Dawson ",61.5972021949212
-48325,"Medina ",185.870522235393
-48015,"Austin ",125.220939676918
-48135,"Ector ",613.645850805783
-48277,"Lamar ",210.61047498899
-48333,"Mills ",18.0242579194311
-48043,"Brewster ",41.8659828072329
-48453,"Travis ",5028.54682939214
-48003,"Andrews ",63.6411831991529
-48461,"Upton ",13.800808393312
-48161,"Freestone ",78.1418593885157
-48435,"Sutton ",17.3574690156508
-48351,"Newton ",49.4123883161226
-48255,"Karnes ",77.3970178930424
-48467,"Van Zandt ",208.691672669549
-48317,"Martin ",20.6958316057802
-48389,"Reeves ",62.2005521272239
-48049,"Brown ",162.562024559635
-48475,"Ward ",44.3236765326005
-48019,"Bandera ",88.1022310460044
-48491,"Williamson ",1947.1794776541
-48205,"Hartley ",5.82279131061965
-48497,"Wise ",251.470496962793
-48405,"San Augustine ",32.0898107347844
-48337,"Montague ",85.5055380027744
-48349,"Navarro ",199.259317165734
-48469,"Victoria ",378.476337415783
-48303,"Lubbock ",1304.08276404312
-48369,"Parmer ",41.0552100949741
-48339,"Montgomery ",1991.75090602709
-48179,"Gray ",97.4759055012033
-48169,"Garza ",32.9934762267068
-48485,"Wichita ",632.560973138963
-48407,"San Jacinto ",133.513319520057
-48167,"Galveston ",1420.50188627916
-48173,"Glasscock ",4.22548863591659
-48347,"Nacogdoches ",304.330000391578
-48171,"Gillespie ",100.336436695453
-48037,"Bowie ",410.30412254159
-48241,"Jasper ",153.422054744005
-48335,"Mitchell ",45.6373163776967
-48209,"Hays ",833.538013741329
-48159,"Franklin ",32.1194911107257
-48165,"Gaines ",68.7737358433211
-48119,"Delta ",20.3940433557512
-48353,"Nolan ",66.9707096468265
-48327,"Menard ",8.17909596550075
-48375,"Potter ",537.453267099793
-48155,"Foard ",5.15441643255241
-48307,"McCulloch ",34.2669002952414
-48399,"Runnels ",45.2299475537086
-48069,"Castro ",29.5170205897361
-48075,"Childress ",33.755876723214
-48143,"Erath ",174.195259238212
-48341,"Moore ",91.5400568807004
-48385,"Real ",11.7332643425315
-48055,"Caldwell ",165.556797148887
-48393,"Roberts ",3.40984471691929
-48231,"Hunt ",341.065922799951
-48421,"Sherman ",9.27794957859434
-48197,"Hardeman ",17.052168965415
-48149,"Fayette ",98.8286282840848
-48071,"Chambers ",139.981262513828
-48079,"Cochran ",12.8199965807178
-48085,"Collin ",3316.92418270568
-48129,"Donley ",15.4009431649561
-48487,"Wilbarger ",56.1175477496686
-48099,"Coryell ",301.887826557447
-48107,"Crosby ",22.9817869726478
-48065,"Carson ",23.9082225239756
-48061,"Cameron ",1639.73575660175
-48489,"Willacy ",98.068606749008
-48391,"Refugio ",30.5365754884827
-48321,"Matagorda ",159.270448210971
-48259,"Kendall ",148.677046245238
-48365,"Panola ",98.7187429227755
-48133,"Eastland ",80.0073050015891
-48265,"Kerr ",190.25188948694
-48507,"Zavala ",47.467077569314
-48247,"Jim Hogg ",23.52951452103
-48109,"Culberson ",10.2068773752302
-48295,"Lipscomb ",13.9494368407738
-48001,"Anderson ",297.211468088529
-48041,"Brazos ",1015.48223006165
-48433,"Stonewall ",5.42629773888485
-48419,"Shelby ",110.991351806744
-48297,"Live Oak ",38.89477326453
-48395,"Robertson ",64.5941271778481
-48023,"Baylor ",14.8142459626662
-48457,"Tyler ",93.1013352823145
-48263,"Kent ",3.11530663505915
-48381,"Randall ",543.582264731669
-48189,"Hale ",159.68687974517
-48027,"Bell ",1459.51266223439
-48441,"Taylor ",644.103580715429
-48447,"Throckmorton ",6.09467261695208
-48373,"Polk ",196.393801480867
-48473,"Waller ",181.272896061434
-48123,"DeWitt ",70.12226712273
-48257,"Kaufman ",430.02469324478
-48227,"Howard ",164.029617194442
-48063,"Camp ",58.851087717086
-48501,"Yoakum ",35.3548786560817
-48505,"Zapata ",54.7257420290018
-48067,"Cass ",119.193670967161
-48223,"Hopkins ",144.183867806462
-48187,"Guadalupe ",501.794447800007
-48175,"Goliad ",25.3429628342674
-48125,"Dickens ",11.8323877354652
-48503,"Young ",78.8767319027567
-48437,"Swisher ",34.5281329170758
-74300,"Midway  ",NA
-49009,"Daggett ",0
-49041,"Sevier ",0
-49005,"Cache ",0
-49003,"Box Elder ",0
-49033,"Rich ",0
-49023,"Juab ",0
-49043,"Summit ",0
-49055,"Wayne ",0
-49053,"Washington ",0
-49045,"Tooele ",0
-49037,"San Juan ",0
-49017,"Garfield ",0
-49039,"Sanpete ",0
-49057,"Weber ",0
-49021,"Iron ",0
-49049,"Utah ",0
-49031,"Piute ",0
-49029,"Morgan ",0
-49025,"Kane ",0
-49047,"Uintah ",0
-49019,"Grand ",0
-49027,"Millard ",0
-49035,"Salt Lake ",0
-49015,"Emery ",0
-49007,"Carbon ",0
-49001,"Beaver ",0
-49051,"Wasatch ",0
-49013,"Duchesne ",0
-49011,"Davis ",0
-51013,"Arlington ",0
-51053,"Dinwiddie ",0
-51750,"Radfo ",0
-51033,"Caroline ",0
-51775,"Sal ",0
-51085,"Hanover ",0
-51131,"Northampton ",0
-51009,"Amherst ",0
-51169,"Scott ",0
-51029,"Buckingham ",0
-51683,"Manass ",0
-51175,"Southampton ",0
-51770,"Roano ",0
-51081,"Greensville ",0
-51153,"Prince William ",0
-51191,"Washington ",0
-51735,"Poquos ",0
-51037,"Charlotte ",0
-51079,"Greene ",0
-51177,"Spotsylvania ",0
-51163,"Rockbridge ",0
-51097,"King and Queen ",0
-51630,"Fredericksbu ",0
-51125,"Nelson ",0
-51840,"Winchest ",0
-51520,"Brist ",0
-51099,"King George ",0
-51005,"Alleghany ",0
-51001,"Accomack ",0
-51105,"Lee ",0
-51800,"Suffo ",0
-51690,"Martinsvil ",0
-51035,"Carroll ",0
-51195,"Wise ",0
-51570,"Colonial Heigh ",0
-51047,"Culpeper ",0
-51091,"Highland ",0
-51109,"Louisa ",0
-51083,"Halifax ",0
-51031,"Campbell ",0
-51790,"Staunt ",0
-51540,"Charlottesvil ",0
-51027,"Buchanan ",0
-51043,"Clarke ",0
-51115,"Mathews ",0
-51041,"Chesterfield ",0
-51003,"Albemarle ",0
-51101,"King William ",0
-51530,"Buena Vis ",0
-51187,"Warren ",0
-51660,"Harrisonbu ",0
-51193,"Westmoreland ",0
-51510,"Alexandr ",0
-51065,"Fluvanna ",0
-51610,"Falls Chur ",0
-51680,"Lynchbu ",0
-51103,"Lancaster ",0
-51685,"Manassas Pa ",0
-51007,"Amelia ",0
-51700,"Newport Ne ",0
-51159,"Richmond ",0
-51061,"Fauquier ",0
-51165,"Rockingham ",0
-51119,"Middlesex ",0
-51133,"Northumberland ",0
-51620,"Frankl ",0
-51127,"New Kent ",0
-51595,"Empor ",0
-51071,"Giles ",0
-51137,"Orange ",0
-51185,"Tazewell ",0
-51670,"Hopewe ",0
-51650,"Hampt ",0
-51161,"Roanoke ",0
-51181,"Surry ",0
-51036,"Charles City ",0
-51017,"Bath ",0
-51157,"Rappahannock ",0
-51183,"Sussex ",0
-51171,"Shenandoah ",0
-51057,"Essex ",0
-51155,"Pulaski ",0
-51073,"Gloucester ",0
-51173,"Smyth ",0
-51720,"Nort ",0
-51045,"Craig ",0
-51820,"Waynesbo ",0
-51167,"Russell ",0
-51075,"Goochland ",0
-51095,"James City ",0
-51077,"Grayson ",0
-51069,"Frederick ",0
-51590,"Danvil ",0
-51147,"Prince Edward ",0
-51710,"Norfo ",0
-51550,"Chesapea ",0
-51145,"Powhatan ",0
-51199,"York ",0
-51179,"Stafford ",0
-51740,"Portsmou ",0
-51093,"Isle of Wight ",0
-51197,"Wythe ",0
-51051,"Dickenson ",0
-51580,"Covingt ",0
-51025,"Brunswick ",0
-51107,"Loudoun ",0
-51830,"Williamsbu ",0
-51135,"Nottoway ",0
-51087,"Henrico ",0
-51019,"Bedford ",0
-51011,"Appomattox ",0
-51515,"Bedfo ",0
-51117,"Mecklenburg ",0
-51730,"Petersbu ",0
-51067,"Franklin ",0
-51640,"Gal ",0
-51111,"Lunenburg ",0
-51678,"Lexingt ",0
-51113,"Madison ",0
-51149,"Prince George ",0
-51023,"Botetourt ",0
-51063,"Floyd ",0
-51049,"Cumberland ",0
-51139,"Page ",0
-51810,"Virginia Bea ",0
-51015,"Augusta ",0
-51121,"Montgomery ",0
-51089,"Henry ",0
-51143,"Pittsylvania ",0
-51059,"Fairfax ",0
-51760,"Richmo ",0
-51021,"Bland ",0
-51141,"Patrick ",0
-51600,"Fairf ",0
-78010,"St. Croix ",NA
-78020,"St. John ",NA
-78030,"St. Thomas ",NA
-50013,"Grand Isle ",0
-50003,"Bennington ",0
-50021,"Rutland ",0
-50017,"Orange ",0
-50027,"Windsor ",0
-50001,"Addison ",0
-50015,"Lamoille ",0
-50023,"Washington ",0
-50007,"Chittenden ",0
-50009,"Essex ",0
-50011,"Franklin ",0
-50019,"Orleans ",0
-50005,"Caledonia ",0
-50025,"Windham ",0
-53065,"Stevens ",0
-53069,"Wahkiakum ",0
-53073,"Whatcom ",0
-53045,"Mason ",0
-53011,"Clark ",0
-53051,"Pend Oreille ",0
-53039,"Klickitat ",0
-53053,"Pierce ",0
-53049,"Pacific ",0
-53041,"Lewis ",0
-53075,"Whitman ",0
-53013,"Columbia ",0
-53025,"Grant ",0
-53001,"Adams ",0
-53077,"Yakima ",0
-53021,"Franklin ",0
-53063,"Spokane ",0
-53005,"Benton ",0
-53009,"Clallam ",0
-53067,"Thurston ",0
-53007,"Chelan ",0
-53071,"Walla Walla ",0
-53029,"Island ",0
-53035,"Kitsap ",0
-53061,"Snohomish ",0
-53043,"Lincoln ",0
-53017,"Douglas ",0
-53057,"Skagit ",0
-53015,"Cowlitz ",0
-53023,"Garfield ",0
-53031,"Jefferson ",0
-53003,"Asotin ",0
-53047,"Okanogan ",0
-53033,"King ",0
-53059,"Skamania ",0
-53055,"San Juan ",0
-53019,"Ferry ",0
-53027,"Grays Harbor ",0
-53037,"Kittitas ",0
-55027,"Dodge ",0
-55105,"Rock ",0
-55071,"Manitowoc ",0
-55013,"Burnett ",0
-55025,"Dane ",0
-55127,"Walworth ",0
-55053,"Jackson ",0
-55129,"Washburn ",0
-55015,"Calumet ",0
-55067,"Langlade ",0
-55113,"Sawyer ",0
-55035,"Eau Claire ",0
-55121,"Trempealeau ",0
-55095,"Polk ",0
-55087,"Outagamie ",0
-55033,"Dunn ",0
-55111,"Sauk ",0
-55049,"Iowa ",0
-55099,"Price ",0
-55065,"Lafayette ",0
-55103,"Richland ",0
-55001,"Adams ",0
-55045,"Green ",0
-55041,"Forest ",0
-55009,"Brown ",0
-55131,"Washington ",0
-55019,"Clark ",0
-55029,"Door ",0
-55081,"Monroe ",0
-55115,"Shawano ",0
-55077,"Marquette ",0
-55089,"Ozaukee ",0
-55075,"Marinette ",0
-55003,"Ashland ",0
-55101,"Racine ",0
-55135,"Waupaca ",0
-55007,"Bayfield ",0
-55021,"Columbia ",0
-55011,"Buffalo ",0
-55093,"Pierce ",0
-55107,"Rusk ",0
-55051,"Iron ",0
-55091,"Pepin ",0
-55055,"Jefferson ",0
-55069,"Lincoln ",0
-55117,"Sheboygan ",0
-55085,"Oneida ",0
-55123,"Vernon ",0
-55017,"Chippewa ",0
-55083,"Oconto ",0
-55023,"Crawford ",0
-55043,"Grant ",0
-55059,"Kenosha ",0
-55125,"Vilas ",0
-55079,"Milwaukee ",0
-55097,"Portage ",0
-55039,"Fond du Lac ",0
-55078,"Menominee ",0
-55047,"Green Lake ",0
-55061,"Kewaunee ",0
-55119,"Taylor ",0
-55137,"Waushara ",0
-55139,"Winnebago ",0
-55005,"Barron ",0
-55133,"Waukesha ",0
-55073,"Marathon ",0
-55063,"La Crosse ",0
-55141,"Wood ",0
-55057,"Juneau ",0
-55109,"St. Croix ",0
-55037,"Florence ",0
-55031,"Douglas ",0
-54047,"McDowell ",0
-54039,"Kanawha ",0
-54025,"Greenbrier ",0
-54053,"Mason ",0
-54075,"Pocahontas ",0
-54101,"Webster ",0
-54005,"Boone ",0
-54001,"Barbour ",0
-54021,"Gilmer ",0
-54011,"Cabell ",0
-54045,"Logan ",0
-54059,"Mingo ",0
-54091,"Taylor ",0
-54009,"Brooke ",0
-54031,"Hardy ",0
-54083,"Randolph ",0
-54017,"Doddridge ",0
-54029,"Hancock ",0
-54003,"Berkeley ",0
-54019,"Fayette ",0
-54023,"Grant ",0
-54107,"Wood ",0
-54043,"Lincoln ",0
-54061,"Monongalia ",0
-54065,"Morgan ",0
-54007,"Braxton ",0
-54099,"Wayne ",0
-54035,"Jackson ",0
-54049,"Marion ",0
-54037,"Jefferson ",0
-54051,"Marshall ",0
-54093,"Tucker ",0
-54073,"Pleasants ",0
-54033,"Harrison ",0
-54097,"Upshur ",0
-54095,"Tyler ",0
-54089,"Summers ",0
-54013,"Calhoun ",0
-54103,"Wetzel ",0
-54085,"Ritchie ",0
-54077,"Preston ",0
-54057,"Mineral ",0
-54105,"Wirt ",0
-54109,"Wyoming ",0
-54015,"Clay ",0
-54067,"Nicholas ",0
-54063,"Monroe ",0
-54055,"Mercer ",0
-54069,"Ohio ",0
-54027,"Hampshire ",0
-54087,"Roane ",0
-54071,"Pendleton ",0
-54081,"Raleigh ",0
-54041,"Lewis ",0
-54079,"Putnam ",0
-56023,"Lincoln ",0
-56017,"Hot Springs ",0
-56033,"Sheridan ",0
-56019,"Johnson ",0
-56035,"Sublette ",0
-56029,"Park ",0
-56013,"Fremont ",0
-56045,"Weston ",0
-56037,"Sweetwater ",0
-56001,"Albany ",0
-56025,"Natrona ",0
-56039,"Teton ",0
-56005,"Campbell ",0
-56041,"Uinta ",0
-56021,"Laramie ",0
-56031,"Platte ",0
-56011,"Crook ",0
-56003,"Big Horn ",0
-56015,"Goshen ",0
-56027,"Niobrara ",0
-56007,"Carbon ",0
-56043,"Washakie ",0
-56009,"Converse ",0
+"id","rate"
+2180,0
+2270,0
+2220,0
+2070,0
+2185,0
+2230,0
+2261,0
+2050,0
+2105,0
+2275,0
+2240,0
+2130,0
+2110,0
+2122,0
+2090,0
+2060,0
+2290,0
+2188,0
+2170,0
+2013,0
+2016,0
+2198,0
+2100,0
+2068,0
+2164,0
+2150,0
+2020,0
+2282,0
+2195,0
+1133,0
+1057,0
+1101,0
+1073,0
+1079,0
+1051,0
+1005,0
+1097,0
+1013,0
+1093,0
+1029,0
+1041,0
+1119,0
+1085,0
+1127,0
+1089,0
+1049,0
+1125,0
+1009,0
+1081,0
+1067,0
+1017,0
+1019,0
+1055,0
+1033,0
+1039,0
+1007,0
+1061,0
+1003,0
+1095,0
+1031,0
+1077,0
+1025,0
+1071,0
+1099,0
+1115,0
+1047,0
+1075,0
+1083,0
+1053,0
+1037,0
+1123,0
+1121,0
+1045,0
+1069,0
+1131,0
+1059,0
+1023,0
+1043,0
+1105,0
+1107,0
+1035,0
+1103,0
+1091,0
+1111,0
+1021,0
+1011,0
+1113,0
+1117,0
+1065,0
+1129,0
+1001,0
+1063,0
+1015,0
+1109,0
+1087,0
+1027,0
+5099,0
+5143,0
+5117,0
+5055,0
+5139,0
+5039,0
+5045,0
+5089,0
+5097,0
+5101,0
+5077,0
+5105,0
+5035,0
+5093,0
+5023,0
+5027,0
+5065,0
+5131,0
+5083,0
+5115,0
+5103,0
+5071,0
+5129,0
+5007,0
+5113,0
+5059,0
+5019,0
+5085,0
+5003,0
+5057,0
+5111,0
+5025,0
+5049,0
+5069,0
+5001,0
+5079,0
+5015,0
+5031,0
+5147,0
+5121,0
+5061,0
+5127,0
+5091,0
+5149,0
+5123,0
+5145,0
+5095,0
+5009,0
+5107,0
+5109,0
+5141,0
+5133,0
+5053,0
+5051,0
+5125,0
+5135,0
+5005,0
+5029,0
+5011,0
+5119,0
+5047,0
+5037,0
+5033,0
+5063,0
+5067,0
+5137,0
+5013,0
+5075,0
+5073,0
+5043,0
+5041,0
+5017,0
+5087,0
+5021,0
+5081,0
+0,0
+0,0
+0,0
+0,0
+0,0
+4025,0
+4023,0
+4007,0
+4019,0
+4011,0
+4005,0
+4015,0
+4009,0
+4001,0
+4013,0
+4017,0
+4003,0
+4027,0
+4012,0
+4021,0
+6081,0
+6055,0
+6009,0
+6107,0
+6011,0
+6099,0
+6067,0
+6053,0
+6079,0
+6047,0
+6089,0
+6077,0
+6085,0
+6021,0
+6113,0
+6027,0
+6083,0
+6109,0
+6101,0
+6087,0
+6031,0
+6097,0
+6057,0
+6001,0
+6013,0
+6049,0
+6063,0
+6073,0
+6019,0
+6071,0
+6015,0
+6045,0
+6093,0
+6003,0
+6033,0
+6041,0
+6105,0
+6103,0
+6091,0
+6029,0
+6075,0
+6043,0
+6095,0
+6035,0
+6059,0
+6111,0
+6007,0
+6051,0
+6037,0
+6039,0
+6065,0
+6115,0
+6025,0
+6069,0
+6017,0
+6023,0
+6005,0
+6061,0
+8109,40.0629025779842
+8014,396.788235082611
+8121,25.7060303218876
+8001,2524.74700186956
+8017,10.6852673516085
+8049,101.406771496608
+8073,33.3537406568303
+8101,957.848456588882
+8075,148.412343897695
+8063,51.4764226364768
+8091,23.8554759613241
+8053,5.0698704422886
+8115,13.1611650268526
+8051,110.456356825797
+8005,3775.07253602307
+8047,36.4089860042556
+8019,40.4114643968627
+8083,154.150183141697
+8097,102.164298690025
+8071,95.6478737663802
+8023,18.8576151722176
+8099,74.4173999324858
+8059,3737.76221290736
+8043,308.651201461582
+8007,73.5101301509366
+8011,43.7588364154223
+8095,24.8269083180916
+8055,35.9033230921151
+8025,42.9881277263658
+8081,85.7052670348166
+8009,20.2047899508233
+8107,167.392740414317
+8057,8.14826815951317
+8029,180.717009000675
+8021,46.4564364776099
+8061,7.5170420290783
+8035,1793.92394321944
+8069,1968.88466685891
+8015,112.59303539125
+8077,900.096854329059
+8089,109.558688996064
+8033,11.2558306836552
+8013,2087.50466693218
+8065,50.7856504455596
+8105,69.2134710871188
+8039,102.346755716276
+8117,208.012606051993
+8103,40.3712718031245
+8125,57.6292297212619
+8111,5.08580389919597
+8119,156.344293942311
+8067,350.738530503728
+8123,1563.6026927689
+8079,3.76003658741143
+8113,54.4380913299125
+8037,348.578320675257
+8085,236.430185689018
+8031,3926.58357833776
+8087,165.236967624847
+8093,104.620274558698
+8045,399.330688342873
+8003,99.2353045512111
+8041,3982.07399572652
+8027,26.4718732243541
+9001,0
+9003,0
+9009,0
+9005,0
+9013,0
+9015,0
+9011,0
+9007,0
+11001,0
+10003,4527.48734784814
+10005,1597.25438284206
+10001,1301.5082693098
+12029,0
+12017,0
+12035,0
+12129,0
+12031,0
+12087,0
+12045,0
+12097,0
+12115,0
+12003,0
+12081,0
+12027,0
+12013,0
+12055,0
+12049,0
+12103,0
+12133,0
+12111,0
+12065,0
+12073,0
+12107,0
+12079,0
+12085,0
+12019,0
+12117,0
+12015,0
+12105,0
+12075,0
+12121,0
+12047,0
+12086,0
+12083,0
+12057,0
+12099,0
+12077,0
+12071,0
+12061,0
+12053,0
+12005,0
+12131,0
+12021,0
+12059,0
+12023,0
+12123,0
+12001,0
+12051,0
+12039,0
+12067,0
+12095,0
+12011,0
+12007,0
+12119,0
+12043,0
+12089,0
+12063,0
+12069,0
+12125,0
+12033,0
+12093,0
+12041,0
+12109,0
+12037,0
+12127,0
+12091,0
+12101,0
+12009,0
+12113,0
+13205,0
+13289,0
+13189,0
+13091,0
+13137,0
+13307,0
+13177,0
+13255,0
+13225,0
+13027,0
+13267,0
+13209,0
+13095,0
+13081,0
+13143,0
+13173,0
+13247,0
+13303,0
+13241,0
+13029,0
+13045,0
+13103,0
+13269,0
+13159,0
+13253,0
+13281,0
+13069,0
+13057,0
+13107,0
+13287,0
+13017,0
+13077,0
+13261,0
+13243,0
+13075,0
+13313,0
+13165,0
+13065,0
+13213,0
+13097,0
+13113,0
+13019,0
+13009,0
+13191,0
+13015,0
+13283,0
+13145,0
+13221,0
+13051,0
+13133,0
+13227,0
+13245,0
+13011,0
+13135,0
+13309,0
+13007,0
+13111,0
+13131,0
+13047,0
+13251,0
+13025,0
+13053,0
+13299,0
+13249,0
+13233,0
+13073,0
+13117,0
+13089,0
+13049,0
+13185,0
+13317,0
+13257,0
+13231,0
+13179,0
+13139,0
+13101,0
+13197,0
+13291,0
+13181,0
+13121,0
+13305,0
+13293,0
+13001,0
+13265,0
+13207,0
+13315,0
+13161,0
+13149,0
+13201,0
+13171,0
+13217,0
+13271,0
+13055,0
+13311,0
+13033,0
+13023,0
+13163,0
+13239,0
+13297,0
+13085,0
+13301,0
+13237,0
+13319,0
+13035,0
+13087,0
+13275,0
+13285,0
+13005,0
+13153,0
+13037,0
+13127,0
+13043,0
+13071,0
+13093,0
+13155,0
+13183,0
+13115,0
+13279,0
+13167,0
+13021,0
+13229,0
+13039,0
+13199,0
+13277,0
+13195,0
+13151,0
+13219,0
+13119,0
+13187,0
+13321,0
+13141,0
+13109,0
+13175,0
+13003,0
+13157,0
+13059,0
+13129,0
+13079,0
+13123,0
+13169,0
+13295,0
+13147,0
+13031,0
+13105,0
+13235,0
+13099,0
+13193,0
+13259,0
+13061,0
+13223,0
+13013,0
+13273,0
+13263,0
+13063,0
+13125,0
+13215,0
+13211,0
+13083,0
+13067,0
+0,0
+15009,0
+15007,0
+15003,0
+15001,0
+15005,0
+19065,0
+19019,0
+19137,0
+19073,0
+19091,0
+19029,0
+19037,0
+19193,0
+19045,0
+19089,0
+19161,0
+19055,0
+19175,0
+19171,0
+19145,0
+19035,0
+19197,0
+19151,0
+19121,0
+19061,0
+19077,0
+19189,0
+19159,0
+19057,0
+19023,0
+19069,0
+19049,0
+19021,0
+19079,0
+19003,0
+19125,0
+19147,0
+19081,0
+19007,0
+19181,0
+19115,0
+19195,0
+19133,0
+19113,0
+19103,0
+19119,0
+19011,0
+19027,0
+19185,0
+19105,0
+19013,0
+19179,0
+19183,0
+19127,0
+19111,0
+19005,0
+19001,0
+19191,0
+19157,0
+19149,0
+19087,0
+19141,0
+19095,0
+19117,0
+19017,0
+19051,0
+19063,0
+19053,0
+19107,0
+19015,0
+19025,0
+19153,0
+19109,0
+19009,0
+19163,0
+19167,0
+19071,0
+19067,0
+19169,0
+19187,0
+19031,0
+19059,0
+19083,0
+19033,0
+19043,0
+19131,0
+19075,0
+19165,0
+19085,0
+19039,0
+19093,0
+19047,0
+19129,0
+19139,0
+19173,0
+19123,0
+19155,0
+19097,0
+19101,0
+19143,0
+19041,0
+19135,0
+19177,0
+19099,0
+16065,0
+16003,0
+16039,0
+16007,0
+16019,0
+16027,0
+16067,0
+16041,0
+16061,0
+16025,0
+16073,0
+16063,0
+16057,0
+16029,0
+16047,0
+16059,0
+16081,0
+16043,0
+16075,0
+16015,0
+16023,0
+16013,0
+16033,0
+16049,0
+16085,0
+16009,0
+16037,0
+16055,0
+16005,0
+16071,0
+16001,0
+16011,0
+16053,0
+16069,0
+16083,0
+16045,0
+16051,0
+16079,0
+16087,0
+16021,0
+16031,0
+16017,0
+16035,0
+16077,0
+17037,36.6026982755982
+17175,1.76481858525969
+17057,11.6887532845855
+17159,4.77794965909017
+17135,9.49885038136615
+17125,5.03762686630592
+17023,5.13560099177386
+17001,20.103858789281
+17015,4.69075222638333
+17111,104.92302319002
+17061,4.33623698171577
+17019,72.0010576909552
+17147,4.81540133894932
+17055,12.3219446541755
+17071,1.99914313004975
+17157,11.8382879395205
+17131,4.61415213665438
+17117,15.8175129654631
+17085,6.549470555879
+17031,1675.17613724902
+17007,15.8346104714858
+17191,4.74387573348039
+17167,62.5559149700758
+17043,304.861402504032
+17177,14.4019856824584
+17163,83.0826455900197
+17149,4.93688751169552
+17161,46.0844329119808
+17139,3.98159102449442
+17103,11.6841276814212
+17075,8.15097748435837
+17201,91.7813659249661
+17179,42.4149449615408
+17013,1.43766330200327
+17107,9.7618085750104
+17203,10.33335124315
+17091,35.7150313491417
+17109,11.4727234309525
+17017,4.37482251698367
+17151,1.01677546498668
+17069,1.30589339508078
+17027,10.0728081919246
+17193,4.65954485747712
+17035,3.35137057899592
+17105,11.4760951055482
+17053,4.07329500048132
+17181,5.28286438942672
+17129,3.9148723985242
+17165,7.50676572922284
+17093,32.1496407486872
+17113,57.9573819703274
+17141,15.6528374397104
+17115,34.0619811168806
+17095,16.3694735757819
+17039,5.05273480566632
+17079,2.81063858236082
+17123,3.59717553645891
+17047,1.74912953233636
+17041,6.68829032786518
+17199,19.3565513071016
+17143,58.4926002277254
+17187,5.4541393792341
+17169,2.17634274235478
+17081,11.9679203415415
+17099,0.0506637805513099
+17063,16.1169166562848
+17011,10.3452263266734
+17185,3.53873486559297
+17195,17.9520180644765
+17083,5.77936994546735
+17089,158.354260063613
+17009,2.48973318307322
+17051,6.72018267108445
+17153,1.9575284073427
+17145,6.79732233007627
+17119,87.050636429263
+17097,229.122654801173
+17101,6.34522256441323
+17029,18.3526596415092
+17183,24.6010850000767
+17127,4.50412813762014
+17121,14.2547800415153
+17033,6.36499106494654
+17049,10.4802062907316
+17021,10.4425063583478
+17059,1.71303108205575
+17065,2.23530626343601
+17087,4.24498593992699
+17155,1.85543886298059
+17025,3.95315749757341
+17133,10.1047542387513
+17189,4.28388711054773
+17171,1.44750524801317
+17077,22.4285222823888
+17005,5.81776397164478
+17003,2.46389516162985
+17045,5.39535419466043
+17197,211.205357132146
+17173,6.488305186895
+17137,11.1169664170237
+17067,5.86137130084089
+17073,14.779138010914
+18055,0
+18047,0
+18149,0
+18159,0
+18121,0
+18157,0
+18057,0
+18087,0
+18079,0
+18117,0
+18103,0
+18135,0
+18173,0
+18041,0
+18165,0
+18067,0
+18183,0
+18001,0
+18015,0
+18027,0
+18153,0
+18141,0
+18095,0
+18011,0
+18175,0
+18171,0
+18019,0
+18053,0
+18119,0
+18039,0
+18059,0
+18003,0
+18099,0
+18091,0
+18009,0
+18105,0
+18023,0
+18033,0
+18063,0
+18013,0
+18151,0
+18143,0
+18163,0
+18075,0
+18049,0
+18035,0
+18045,0
+18085,0
+18137,0
+18181,0
+18007,0
+18101,0
+18093,0
+18037,0
+18139,0
+18125,0
+18177,0
+18069,0
+18005,0
+18161,0
+18113,0
+18089,0
+18179,0
+18073,0
+18111,0
+18147,0
+18077,0
+18169,0
+18021,0
+18051,0
+18065,0
+18133,0
+18083,0
+18017,0
+18081,0
+18097,0
+18107,0
+18131,0
+18031,0
+18109,0
+18127,0
+18071,0
+18155,0
+18145,0
+18025,0
+18115,0
+18029,0
+18129,0
+18123,0
+18043,0
+18061,0
+18167,0
+20131,0
+20101,0
+20079,0
+20187,0
+20173,0
+20015,0
+20181,0
+20117,0
+20053,0
+20135,0
+20209,0
+20109,0
+20033,0
+20107,0
+20111,0
+20147,0
+20185,0
+20047,0
+20061,0
+20195,0
+20159,0
+20177,0
+20105,0
+20143,0
+20099,0
+20133,0
+20205,0
+20179,0
+20081,0
+20197,0
+20157,0
+20017,0
+20191,0
+20097,0
+20059,0
+20073,0
+20093,0
+20049,0
+20127,0
+20019,0
+20165,0
+20055,0
+20103,0
+20207,0
+20151,0
+20139,0
+20089,0
+20201,0
+20175,0
+20161,0
+20021,0
+20041,0
+20057,0
+20045,0
+20141,0
+20153,0
+20065,0
+20145,0
+20031,0
+20095,0
+20199,0
+20043,0
+20025,0
+20113,0
+20005,0
+20039,0
+20037,0
+20119,0
+20009,0
+20183,0
+20007,0
+20083,0
+20087,0
+20011,0
+20163,0
+20069,0
+20003,0
+20121,0
+20051,0
+20171,0
+20169,0
+20063,0
+20029,0
+20115,0
+20123,0
+20013,0
+20077,0
+20129,0
+20071,0
+20149,0
+20035,0
+20189,0
+20137,0
+20023,0
+20001,0
+20167,0
+20027,0
+20193,0
+20091,0
+20125,0
+20075,0
+20067,0
+20085,0
+20155,0
+20203,0
+21125,0
+21001,0
+21215,0
+21239,0
+21115,0
+21187,0
+21081,0
+21143,0
+21093,0
+21157,0
+21003,0
+21231,0
+21141,0
+21037,0
+21073,0
+21225,0
+21031,0
+21099,0
+21045,0
+21017,0
+21229,0
+21105,0
+21197,0
+21041,0
+21035,0
+21059,0
+21203,0
+21089,0
+21043,0
+21199,0
+21137,0
+21163,0
+21069,0
+21075,0
+21219,0
+21159,0
+21175,0
+21095,0
+21007,0
+21049,0
+21071,0
+21085,0
+21129,0
+21023,0
+21119,0
+21053,0
+21065,0
+21015,0
+21051,0
+21133,0
+21055,0
+21057,0
+21195,0
+21235,0
+21013,0
+21155,0
+21209,0
+21087,0
+21039,0
+21233,0
+21149,0
+21185,0
+21165,0
+21019,0
+21011,0
+21107,0
+21097,0
+21211,0
+21161,0
+21101,0
+21189,0
+21077,0
+21139,0
+21205,0
+21217,0
+21067,0
+21173,0
+21167,0
+21063,0
+21177,0
+21213,0
+21207,0
+21029,0
+21009,0
+21061,0
+21005,0
+21091,0
+21153,0
+21191,0
+21181,0
+21169,0
+21103,0
+21083,0
+21147,0
+21025,0
+21079,0
+21145,0
+21121,0
+21179,0
+21123,0
+21113,0
+21223,0
+21151,0
+21033,0
+21227,0
+21021,0
+21027,0
+21193,0
+21183,0
+21237,0
+21131,0
+21117,0
+21047,0
+21127,0
+21111,0
+21171,0
+21201,0
+21109,0
+21135,0
+21221,0
+22051,223.148496705258
+22031,13.0629769285946
+22077,10.2216880316381
+22081,4.26206685407928
+22071,187.406458928492
+22055,118.522090402541
+22033,232.933317750338
+22087,18.8870018719319
+22053,14.1837569157926
+22119,20.5442398213434
+22045,36.1320480839603
+22037,11.5854861175717
+22059,7.41942897090259
+22041,9.31505510108683
+22025,5.62337277864871
+22073,76.6645176257311
+22023,1.50409867930163
+22111,11.329294356768
+22057,46.232247294813
+22127,7.32666230983899
+22113,27.4783179391499
+22083,10.9219149794942
+22085,10.93911412948
+22117,23.2925063679535
+22017,128.911665959219
+22089,26.2397323514685
+22063,63.3125430303757
+22039,16.1111750953789
+22067,13.3262017629623
+22029,9.84088739348419
+22011,18.643236124787
+22027,8.14140892723712
+22061,26.199945966262
+22115,25.7151331934604
+22069,20.5010784994323
+22043,11.6106836490784
+22001,29.2556222354251
+22019,100.789918077016
+22005,54.2767095266985
+22049,7.17908104505712
+22091,3.13946305788301
+22007,10.5989624232904
+22015,57.3720540461465
+22093,11.4083395657495
+22103,116.818412482567
+22095,23.9496488625122
+22101,27.4101039223828
+22107,2.44320172134041
+22003,13.2877585556338
+22121,12.4358431316048
+22097,42.20589197547
+22109,59.6369092561508
+22075,11.5062240581858
+22013,6.36902745879926
+22099,23.3689914475336
+22123,5.54068318824386
+22065,5.7412520111725
+22035,3.77571832729423
+22079,65.1655443006569
+22125,8.03993022026193
+22021,5.41842325389363
+22105,65.2421305231495
+22047,18.5521047423328
+22009,20.8434496856939
+25003,0
+25019,0
+25007,0
+25001,0
+25027,0
+25011,0
+25013,0
+25017,0
+25023,0
+25021,0
+25015,0
+25005,0
+25009,0
+25025,0
+24015,0
+24033,0
+24045,0
+24510,0
+24031,0
+24001,0
+24023,0
+24011,0
+24005,0
+24037,0
+24027,0
+24025,0
+24013,0
+24041,0
+24021,0
+24043,0
+24009,0
+24017,0
+24047,0
+24035,0
+24003,0
+24019,0
+24039,0
+24029,0
+23017,0
+23005,0
+23011,0
+23019,0
+23025,0
+23029,0
+23015,0
+23001,0
+23003,0
+23021,0
+23009,0
+23031,0
+23013,0
+23023,0
+23007,0
+23027,0
+26097,0
+26145,0
+26079,0
+26025,0
+26049,0
+26077,0
+26165,0
+26087,0
+26109,0
+26067,0
+26069,0
+26113,0
+26021,0
+26005,0
+26131,0
+26053,0
+26101,0
+26071,0
+26099,0
+26063,0
+26135,0
+26083,0
+26149,0
+26023,0
+26031,0
+26011,0
+26163,0
+26033,0
+26065,0
+26107,0
+26151,0
+26003,0
+26043,0
+26015,0
+26139,0
+26093,0
+26117,0
+26129,0
+26141,0
+26103,0
+26061,0
+26155,0
+26119,0
+26123,0
+26019,0
+26037,0
+26089,0
+26029,0
+26073,0
+26137,0
+26091,0
+26057,0
+26115,0
+26111,0
+26075,0
+26153,0
+26085,0
+26035,0
+26059,0
+26127,0
+26143,0
+26161,0
+26017,0
+26157,0
+26105,0
+26121,0
+26055,0
+26081,0
+26009,0
+26013,0
+26041,0
+26001,0
+26125,0
+26051,0
+26147,0
+26133,0
+26039,0
+26045,0
+26159,0
+26027,0
+26095,0
+26047,0
+26007,0
+27109,0
+27083,0
+27087,0
+27121,0
+27111,0
+27165,0
+27131,0
+27031,0
+27047,0
+27079,0
+27097,0
+27141,0
+27107,0
+27051,0
+27075,0
+27073,0
+27163,0
+27077,0
+27159,0
+27119,0
+27053,0
+27029,0
+27167,0
+27039,0
+27139,0
+27001,0
+27105,0
+27133,0
+27101,0
+27071,0
+27147,0
+27059,0
+27117,0
+27043,0
+27161,0
+27089,0
+27115,0
+27063,0
+27065,0
+27149,0
+27135,0
+27035,0
+27017,0
+27085,0
+27151,0
+27037,0
+27015,0
+27095,0
+27171,0
+27019,0
+27125,0
+27005,0
+27157,0
+27169,0
+27055,0
+27155,0
+27069,0
+27045,0
+27093,0
+27145,0
+27027,0
+27091,0
+27041,0
+27137,0
+27067,0
+27011,0
+27081,0
+27123,0
+27033,0
+27023,0
+27025,0
+27007,0
+27099,0
+27153,0
+27143,0
+27173,0
+27061,0
+27009,0
+27127,0
+27129,0
+27057,0
+27003,0
+27013,0
+27113,0
+27103,0
+27021,0
+27049,0
+29085,0
+29133,0
+29019,0
+29021,0
+29047,0
+29093,0
+29121,0
+29223,0
+29035,0
+29059,0
+29107,0
+29185,0
+29057,0
+29097,0
+29125,0
+29027,0
+29155,0
+29089,0
+29051,0
+29167,0
+29139,0
+29029,0
+29087,0
+29229,0
+29129,0
+29075,0
+29157,0
+29221,0
+29063,0
+29091,0
+29045,0
+29011,0
+29003,0
+29123,0
+29197,0
+29153,0
+29186,0
+29053,0
+29037,0
+29103,0
+29211,0
+29041,0
+29009,0
+29183,0
+29151,0
+29145,0
+29141,0
+29117,0
+29043,0
+29023,0
+29119,0
+29001,0
+29213,0
+29163,0
+29005,0
+29187,0
+29039,0
+29105,0
+29127,0
+29069,0
+29179,0
+29143,0
+29109,0
+29195,0
+29175,0
+29007,0
+29115,0
+29079,0
+29203,0
+29061,0
+29065,0
+29073,0
+29101,0
+29077,0
+29095,0
+29189,0
+29113,0
+29217,0
+29025,0
+29199,0
+29207,0
+29015,0
+29149,0
+29161,0
+29201,0
+29227,0
+29071,0
+29173,0
+29067,0
+29137,0
+29033,0
+29081,0
+29165,0
+29225,0
+29181,0
+29055,0
+29147,0
+29135,0
+29177,0
+29049,0
+29219,0
+29031,0
+29099,0
+29205,0
+29131,0
+29209,0
+29171,0
+29159,0
+29017,0
+29169,0
+29111,0
+29215,0
+29510,0
+29083,0
+29013,0
+0,0
+0,0
+0,0
+0,0
+28013,0
+28133,0
+28119,0
+28143,0
+28161,0
+28043,0
+28097,0
+28039,0
+28049,0
+28127,0
+28113,0
+28085,0
+28123,0
+28025,0
+28093,0
+28021,0
+28101,0
+28159,0
+28149,0
+28033,0
+28069,0
+28035,0
+28109,0
+28083,0
+28147,0
+28071,0
+28103,0
+28105,0
+28061,0
+28153,0
+28163,0
+28081,0
+28053,0
+28129,0
+28045,0
+28065,0
+28155,0
+28057,0
+28111,0
+28031,0
+28095,0
+28063,0
+28055,0
+28141,0
+28041,0
+28001,0
+28135,0
+28079,0
+28007,0
+28029,0
+28037,0
+28015,0
+28139,0
+28121,0
+28075,0
+28151,0
+28017,0
+28125,0
+28059,0
+28077,0
+28117,0
+28145,0
+28009,0
+28005,0
+28011,0
+28131,0
+28073,0
+28107,0
+28137,0
+28099,0
+28115,0
+28051,0
+28019,0
+28023,0
+28087,0
+28091,0
+28027,0
+28089,0
+28047,0
+28157,0
+28067,0
+28003,0
+30037,0
+30035,0
+30071,0
+30093,0
+30095,0
+30033,0
+30049,0
+30105,0
+30077,0
+30007,0
+30061,0
+30051,0
+30101,0
+30059,0
+30111,0
+30011,0
+30073,0
+30039,0
+30021,0
+30081,0
+30029,0
+30043,0
+30053,0
+30005,0
+30083,0
+30091,0
+30063,0
+30069,0
+30015,0
+30027,0
+30103,0
+30023,0
+30057,0
+30065,0
+30099,0
+30085,0
+30067,0
+30109,0
+30009,0
+30087,0
+30017,0
+30097,0
+30001,0
+30089,0
+30003,0
+30075,0
+30025,0
+30047,0
+30079,0
+30055,0
+30107,0
+30045,0
+30019,0
+30041,0
+30013,0
+30031,0
+37141,106.255995192979
+37075,18.9653296364452
+37111,100.939928438044
+37005,24.8501629195592
+37035,366.864553248912
+37013,108.08771494025
+37061,126.966238639203
+37167,139.351175431887
+37097,349.985195936627
+37063,634.131888127965
+37147,416.544532361653
+37101,314.245252790623
+37043,22.6708209640847
+37015,40.5221012235553
+37119,2215.37203417244
+37199,39.0383876533315
+37155,325.763043039976
+37115,48.52964830237
+37081,1141.44397464014
+37039,56.3077232841138
+37173,36.2078780068472
+37183,2249.7571975881
+37131,46.8643862936061
+37159,274.819842654422
+37073,27.614995782006
+37121,40.0091804280717
+37157,220.77956406371
+37195,179.787187942772
+37181,101.114203202637
+37047,128.792818275253
+37001,352.971596933717
+37053,55.3399261908254
+37095,12.3250593871287
+37171,169.39142710212
+37105,151.458354234213
+37151,327.465589872419
+37023,180.30059775518
+37133,432.878291680903
+37067,848.309484645708
+37033,39.9010750867881
+37021,537.637036590739
+37071,476.182699971649
+37099,90.9419194738046
+37193,140.650109429527
+37179,437.85946877939
+37065,113.765426010884
+37051,706.651942395633
+37177,10.5706043138148
+37123,55.2328495962556
+37113,70.7335124394588
+37091,64.783527612707
+37137,24.4634555809291
+37045,213.734721057481
+37031,158.477692291106
+37107,129.306861998487
+37007,61.7422770285065
+37175,66.880421314832
+37019,231.6617808284
+37135,340.370467570204
+37143,28.0574981404654
+37187,27.1236351993398
+37117,54.5321716584735
+37127,231.691650706575
+37083,127.478036506936
+37069,127.756167599096
+37161,157.52867344769
+37197,86.6405012558042
+37057,304.258172449044
+37059,89.0693324010958
+37125,171.359520991217
+37017,69.9497704492381
+37089,228.501767956325
+37077,125.976718327456
+37189,142.492478878693
+37153,101.637694008369
+37011,29.5678758112519
+37025,408.407533447244
+37085,271.292458535118
+37037,104.681186825724
+37163,126.853670565696
+37027,182.987666059703
+37087,126.759391725139
+37149,42.4611837308554
+37003,82.2086857694911
+37041,31.3523529013381
+37093,86.5608458324419
+37145,100.988279533589
+37049,236.870560892604
+37009,60.2814096044923
+37109,175.218646946918
+37103,12.7895964859388
+37055,80.3981857343645
+37029,20.7277973426138
+37079,41.6022055813244
+37165,80.1850250684627
+37139,93.7628878567539
+37191,280.813759312668
+37185,40.1536939849176
+37129,489.803444110633
+37169,107.744461283232
+38083,0
+38091,0
+38101,0
+38003,0
+38095,0
+38049,0
+38061,0
+38035,0
+38067,0
+38099,0
+38039,0
+38055,0
+38081,0
+38065,0
+38005,0
+38071,0
+38085,0
+38001,0
+38089,0
+38019,0
+38051,0
+38057,0
+38079,0
+38023,0
+38013,0
+38097,0
+38073,0
+38077,0
+38015,0
+38037,0
+38047,0
+38045,0
+38009,0
+38063,0
+38025,0
+38011,0
+38033,0
+38043,0
+38029,0
+38017,0
+38069,0
+38093,0
+38041,0
+38103,0
+38059,0
+38087,0
+38007,0
+38021,0
+38031,0
+38053,0
+38105,0
+38027,0
+38075,0
+31183,0
+31051,0
+31123,0
+31063,0
+31127,0
+31087,0
+31163,0
+31005,0
+31043,0
+31149,0
+31055,0
+31073,0
+31079,0
+31161,0
+31129,0
+31029,0
+31009,0
+31103,0
+31105,0
+31093,0
+31035,0
+31095,0
+31135,0
+31037,0
+31065,0
+31181,0
+31021,0
+31057,0
+31001,0
+31067,0
+31083,0
+31153,0
+31011,0
+31077,0
+31137,0
+31033,0
+31007,0
+31115,0
+31113,0
+31053,0
+31171,0
+31157,0
+31023,0
+31121,0
+31031,0
+31143,0
+31125,0
+31061,0
+31165,0
+31179,0
+31085,0
+31039,0
+31097,0
+31017,0
+31147,0
+31167,0
+31059,0
+31049,0
+31089,0
+31139,0
+31173,0
+31025,0
+31117,0
+31155,0
+31047,0
+31151,0
+31045,0
+31159,0
+31027,0
+31075,0
+31145,0
+31133,0
+31177,0
+31175,0
+31109,0
+31015,0
+31091,0
+31081,0
+31111,0
+31101,0
+31003,0
+31041,0
+31119,0
+31071,0
+31099,0
+31141,0
+31169,0
+31185,0
+31069,0
+31107,0
+31013,0
+31019,0
+31131,0
+33019,0
+33013,0
+33009,0
+33003,0
+33011,0
+33005,0
+33001,0
+33015,0
+33007,0
+33017,0
+34005,0
+34007,0
+34027,0
+34029,0
+34015,0
+34017,0
+34013,0
+34021,0
+34001,0
+34025,0
+34037,0
+34033,0
+34003,0
+34031,0
+34041,0
+34011,0
+34039,0
+34023,0
+34035,0
+34019,0
+34009,0
+35001,4990.07630298876
+35027,144.32575878352
+35061,544.198602518175
+35023,33.2904829537686
+35011,1.18631854787909
+35006,218.541503106457
+35015,380.457898412444
+35045,910.037995718895
+35033,34.3764152261262
+35029,160.072773240285
+35043,963.923514370377
+35021,4.19256838005951
+35009,348.89164642572
+35025,458.599977506927
+35041,145.466665057386
+35053,130.957407920736
+35017,199.733347858302
+35057,98.7489305249318
+35047,214.609699406408
+35013,1463.31902931326
+35007,96.4590035583316
+35051,72.4720340053372
+35003,26.3775675115675
+35037,61.0020063564989
+35059,33.3998377975122
+35055,245.891246804826
+35028,130.32183775871
+35035,505.331627555947
+35019,35.352340179539
+35031,481.541444523675
+35005,450.960109784955
+35049,1079.72885844929
+35039,336.155247453391
+32021,0
+32019,0
+32015,0
+32007,0
+32003,0
+32031,0
+32005,0
+32023,0
+32033,0
+32510,0
+32027,0
+32029,0
+32009,0
+32001,0
+32011,0
+32017,0
+32013,0
+36105,0
+36011,0
+36051,0
+36007,0
+36009,0
+36005,0
+36121,0
+36001,0
+36107,0
+36017,0
+36041,0
+36027,0
+36067,0
+36057,0
+36097,0
+36115,0
+36073,0
+36003,0
+36065,0
+36021,0
+36043,0
+36013,0
+36037,0
+36019,0
+36113,0
+36087,0
+36015,0
+36033,0
+36071,0
+36023,0
+36109,0
+36045,0
+36055,0
+36063,0
+36119,0
+36123,0
+36081,0
+36069,0
+36049,0
+36099,0
+36029,0
+36103,0
+36075,0
+36031,0
+36059,0
+36039,0
+36089,0
+36111,0
+36077,0
+36093,0
+36035,0
+36095,0
+36091,0
+36101,0
+36079,0
+36025,0
+36083,0
+36047,0
+36085,0
+36053,0
+36117,0
+36061,0
+39043,2.42252888976475
+39089,4.64100418758773
+39157,2.77395851455075
+39113,17.0409675623472
+39159,1.34208857630004
+39005,1.55495470826597
+39007,3.11530426842896
+39129,1.76004420315748
+39021,1.21252084545651
+39071,1.2807558669475
+39175,0.722688353931729
+39009,2.56710659181715
+39155,6.17484072460514
+39135,1.25927055037024
+39151,11.4942053275526
+39065,1.03259964382227
+39025,6.43343729230267
+39015,1.20744914958705
+39059,1.21208025102141
+39055,2.59451167590395
+39143,2.02384413401757
+39145,2.52569327010521
+39057,4.81172215606556
+39073,0.83352019972118
+39127,1.21865018841772
+39027,1.45979818439019
+39001,0.946340582368601
+39111,0.41773532963989
+39115,0.39094830024394
+39047,0.798349250427541
+39017,11.48596895719
+39139,3.78314753329544
+39117,0.798026896027336
+39061,25.8091423722715
+39147,1.93057749673336
+39169,3.64260832965508
+39039,1.16850353748466
+39093,9.05386563070168
+39035,39.8226141230159
+39121,0.358930451948529
+39041,5.44737402031424
+39107,1.19179186428887
+39091,1.48171217119564
+39023,4.14189922234374
+39163,0.319671203143414
+39051,1.45686598183003
+39053,0.989018972250448
+39133,5.5859069510914
+39003,3.50119329802745
+39079,1.01922950157187
+39031,1.00577092980385
+39081,2.24548628186129
+39123,1.18670398556718
+39173,4.1485221172472
+39125,0.544407933188441
+39171,1.18853845966783
+39167,1.9464494177559
+39063,2.13379794734453
+39049,39.3311340367675
+39161,0.706380197322845
+39019,0.674574479666302
+39045,4.10578039880431
+39137,1.07247694731824
+39099,7.19647034858014
+39075,1.1351419613351
+39037,1.56102994138071
+39085,7.10751476300875
+39101,2.14786094613836
+39077,1.86105846862619
+39069,0.829487613310888
+39029,3.43908556532757
+39141,2.53315857515556
+39153,17.0991824423052
+39131,0.786292624700334
+39119,2.80813790090773
+39013,2.16574650497543
+39033,1.34782627419653
+39109,3.00164232736372
+39105,0.675710085018348
+39149,1.39540335874424
+39097,1.65102453620786
+39083,1.88286473675579
+39011,1.3342028678036
+39087,1.90104539466298
+39165,6.10494222614868
+39067,0.434675519316634
+39103,5.27710596518948
+39095,13.7763986270252
+40001,0
+40061,0
+40129,0
+40025,0
+40037,0
+40141,0
+40145,0
+40083,0
+40115,0
+40119,0
+40045,0
+40143,0
+40095,0
+40007,0
+40065,0
+40027,0
+40035,0
+40135,0
+40105,0
+40015,0
+40089,0
+40137,0
+40085,0
+40019,0
+40069,0
+40067,0
+40117,0
+40041,0
+40009,0
+40111,0
+40091,0
+40059,0
+40079,0
+40121,0
+40101,0
+40107,0
+40123,0
+40051,0
+40073,0
+40033,0
+40021,0
+40131,0
+40063,0
+40003,0
+40055,0
+40075,0
+40103,0
+40093,0
+40047,0
+40125,0
+40017,0
+40139,0
+40133,0
+40151,0
+40099,0
+40081,0
+40113,0
+40109,0
+40005,0
+40049,0
+40043,0
+40127,0
+40057,0
+40039,0
+40153,0
+40013,0
+40053,0
+40071,0
+40029,0
+40147,0
+40011,0
+40077,0
+40149,0
+40087,0
+40097,0
+40031,0
+40023,0
+41037,0
+41051,0
+41015,0
+41041,0
+41057,0
+41045,0
+41001,0
+41021,0
+41053,0
+41023,0
+41059,0
+41043,0
+41005,0
+41035,0
+41047,0
+41065,0
+41031,0
+41017,0
+41019,0
+41027,0
+41067,0
+41039,0
+41061,0
+41025,0
+41069,0
+41029,0
+41049,0
+41011,0
+41063,0
+41009,0
+41007,0
+41071,0
+41013,0
+41055,0
+41003,0
+41033,0
+42005,35.8447246757733
+42075,98.1442415745956
+42007,121.274372793399
+42049,215.198944184909
+42065,33.7727628962596
+42083,0.120625247324959
+42051,98.4783807472004
+42077,269.916826538665
+42095,216.134776566201
+42053,6.69327543611182
+42003,926.196542209627
+42113,4.10093633963824
+42093,13.5416737340311
+42057,10.5519154602058
+42091,591.127286222648
+42099,36.5057618873863
+42033,58.3961393830002
+42071,377.068297668806
+42039,67.6463974493422
+42067,16.7648985552963
+42117,31.5594608956978
+42019,140.855151947258
+42119,37.716633101356
+42031,33.0170517530311
+42023,3.62125194986344
+42069,158.77070559306
+42013,95.3964370406119
+42037,55.6571658233734
+42131,24.2643004567561
+42041,196.435750894893
+42125,157.164261974275
+42127,35.4115352875799
+42001,69.1359250471573
+42121,38.2808637269808
+42027,136.697824510749
+42105,12.3281427333579
+42115,30.6389696333611
+42081,89.0256809470303
+42079,237.799722362098
+42111,58.0024053069544
+42059,30.2830962036931
+42029,391.929304014192
+42045,418.786070223931
+42089,129.795803465384
+42011,304.876416418345
+42085,80.8895200774865
+42101,1201.39176310839
+42009,35.1305037926147
+42103,44.1561914235069
+42043,201.025091623435
+42129,287.022702511836
+42055,100.335717642907
+42087,33.6542510032678
+42097,69.2222529179103
+42109,26.7353412170247
+42021,107.274863520641
+42025,48.6513081526061
+42123,29.2158981030547
+42015,44.9211762357497
+42035,28.4387289345796
+42107,110.219991659208
+42073,71.5874715612056
+42061,35.23408831125
+42047,23.1914462382707
+42063,74.4302829524871
+42133,325.770898603266
+42017,462.960988717086
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+0,0
+44007,0
+44009,0
+44005,0
+44001,0
+44003,0
+45001,0
+45089,0
+45015,0
+45033,0
+45059,0
+45017,0
+45023,0
+45013,0
+45083,0
+45077,0
+45011,0
+45009,0
+45021,0
+45003,0
+45037,0
+45029,0
+45031,0
+45005,0
+45081,0
+45067,0
+45025,0
+45075,0
+45085,0
+45049,0
+45069,0
+45047,0
+45039,0
+45055,0
+45063,0
+45073,0
+45087,0
+45091,0
+45057,0
+45053,0
+45027,0
+45071,0
+45079,0
+45045,0
+45041,0
+45043,0
+45065,0
+45007,0
+45051,0
+45035,0
+45061,0
+45019,0
+46055,0
+46135,0
+46043,0
+46129,0
+46091,0
+46093,0
+46019,0
+46027,0
+46037,0
+46115,0
+46075,0
+46099,0
+46079,0
+46049,0
+46071,0
+46117,0
+46067,0
+46039,0
+46105,0
+46077,0
+46085,0
+46121,0
+46125,0
+46023,0
+46065,0
+46021,0
+46029,0
+46097,0
+46059,0
+46107,0
+46051,0
+46101,0
+46035,0
+46031,0
+46083,0
+46073,0
+46011,0
+46061,0
+46081,0
+46007,0
+46005,0
+46137,0
+46103,0
+46015,0
+46057,0
+46069,0
+46033,0
+46095,0
+46025,0
+46119,0
+46111,0
+46063,0
+46047,0
+46045,0
+46089,0
+46053,0
+46041,0
+46127,0
+46113,0
+46009,0
+46003,0
+46123,0
+46013,0
+46109,0
+46087,0
+46017,0
+47073,17.5001391352284
+47069,9.58905927345875
+47045,11.8592725908118
+47041,6.24193760344925
+47027,1.61059710336573
+47057,7.72195015890443
+47025,11.3221600545624
+47183,11.3548364323493
+47117,9.95866139289483
+47087,3.06284754402735
+47051,12.1088171195372
+47127,0.910926805975967
+47163,51.1478874799969
+47109,9.04015808085267
+47037,229.686721430077
+47053,17.0603609826165
+47023,4.79438789937099
+47181,6.00462508764124
+47143,11.3252509282366
+47033,4.59780002404123
+47101,3.28719122302525
+47133,5.8825032329912
+47185,8.65054022714843
+47017,10.206026479642
+47031,18.1197438659099
+47089,17.2554468100964
+47171,5.87039113145681
+47029,11.9735591832535
+47049,5.2865252521721
+47007,3.35206696270285
+47137,1.58768929587405
+47151,7.55454703122322
+47091,6.46287380064773
+47125,56.0087867523833
+47099,13.7189493033304
+47063,21.1460989049798
+47139,5.57155881691308
+47135,2.4615918845761
+47095,3.00419089252361
+47115,8.8386406906431
+47105,17.2315891782291
+47175,1.19442624131287
+47173,5.06476177161654
+47179,45.478922753358
+47189,35.0220400827578
+47187,66.6806963030809
+47081,8.34338932337455
+47011,33.51283804631
+47155,30.2974179934101
+47071,7.21865684007
+47055,9.20333275450278
+47009,37.9513321165831
+47077,8.7194713908352
+47093,148.05774432544
+47169,2.27111107494402
+47119,23.0253253803399
+47157,309.972505919087
+47167,19.348746133761
+47035,14.7450310074203
+47065,113.594253042346
+47107,15.9103540197879
+47061,4.37328752243833
+47145,18.3327869489169
+47059,21.4886583779203
+47075,5.41348774001894
+47097,9.8600369100361
+47159,5.69342980432768
+47083,2.52644395753338
+47021,12.7213470786234
+47103,10.9137481952858
+47003,14.0067282076288
+47129,5.87999140507423
+47039,3.24861078740831
+47153,3.49664222381434
+47149,89.4157640846136
+47067,1.79634667264162
+47047,11.3698048440632
+47141,27.3949966279128
+47043,16.358669021384
+47165,48.0723840257948
+47015,4.4916568870993
+47005,5.24877893696477
+47111,5.9034656360723
+47085,5.91213554461744
+47177,13.3902900841266
+47147,21.3947020241635
+47131,9.71626579148846
+47019,14.9314900523788
+47123,14.1197841306137
+47001,23.2434263044436
+47013,12.122802573467
+47161,4.36668818895794
+47121,3.76960681304464
+47079,9.79023638882279
+47113,32.0105430107067
+48073,186.701910348954
+48415,75.1658692345168
+48483,23.0150241692468
+48105,16.2686019757005
+48343,56.9777104495462
+48077,31.7448504640455
+48449,133.825902748099
+48131,53.4565406017118
+48427,245.411196043434
+48081,12.0711534650815
+48379,41.338684225506
+48381,543.582259867604
+48215,3130.50485650289
+48047,30.2306058836197
+48245,1149.84618880575
+48163,80.6903173774205
+48501,35.3548620024089
+48029,7757.66970495802
+48237,39.295729760077
+48013,194.314130997558
+48113,11144.857379085
+48035,76.8834415500134
+48039,1484.31131472473
+48477,145.788094790103
+48051,71.6794720041346
+48413,13.8766430899993
+48417,12.8419645395895
+48333,18.0242616815279
+48277,210.610529402038
+48053,148.814619641101
+48293,99.4789627960664
+48217,143.044380005989
+48377,30.3625035129335
+48465,204.376647645837
+48207,23.8820142093265
+48439,7993.92512278089
+48267,17.9345389402556
+48299,85.9901409111379
+48493,170.347052061135
+48083,36.0324333543986
+48059,53.0039693887332
+48269,1.24878110276781
+48033,0.883758891112713
+48371,71.1490939001011
+48367,456.764285122374
+48401,203.116564539681
+48341,91.5400167562324
+48139,692.776872361269
+48127,39.3156545059857
+48007,80.0956803429427
+48063,58.8511276424296
+48135,613.645798147732
+48195,24.1924762704414
+48235,6.69069934489407
+48107,22.981775336277
+48185,129.339505702302
+48463,108.030845727621
+48291,334.226130072255
+48239,56.2186274603429
+48283,29.8456155956914
+48271,15.0186220661835
+48305,23.97315240917
+48497,251.470470874452
+48409,297.398129561806
+48313,60.5208199052352
+48431,5.17553038336039
+48319,15.6857652438015
+48281,88.7858160239269
+48459,152.319591154367
+48003,63.641154995216
+48137,8.01600187123885
+48251,723.347549388362
+48423,923.679849144553
+48481,175.350582562905
+48405,32.0897818300617
+48111,52.7158296870253
+48025,152.94484831304
+48097,148.822484102244
+48121,3408.04663713622
+48213,357.048572436809
+48157,2463.6865049619
+48197,17.0522171728964
+48419,110.991349546688
+48491,1947.17946884484
+48225,108.016221729627
+48161,78.1418419936838
+48331,98.3162069101397
+48041,1015.48221681393
+48373,196.393829612021
+48015,125.220969007031
+48243,9.4399170852906
+48179,97.4759300397288
+48095,20.726523750341
+48311,3.24708362765544
+48031,41.884589043459
+48019,88.1022578599188
+48399,45.2299676028156
+48001,297.21145513013
+48221,219.082475032954
+48147,146.100333396159
+48057,90.0572155769252
+48233,96.8961192116123
+48337,85.5055918892127
+48181,541.949947265844
+48089,88.9001215252836
+48049,162.562073249563
+48203,236.477211514913
+48391,30.5365543651068
+48279,55.3966143385378
+48045,6.49584991779612
+48425,36.2707648021985
+48461,13.8008077305257
+48201,18992.56310385
+48469,378.476311474661
+48009,27.1437218349758
+48241,153.422074503376
+48255,77.3969858074673
+48175,25.3429913284177
+48325,185.87054509016
+48339,1991.75088712564
+48363,133.887684626043
+48027,1459.51261776905
+48011,7.05258010512826
+48397,345.941476249849
+48149,98.8286390215732
+48017,29.739102338204
+48349,199.2593099419
+48429,38.9372432117229
+48385,11.7332993919218
+48091,551.683969199679
+48109,10.2063229060819
+48065,23.908272410169
+48093,49.842304352817
+48389,62.2005070387684
+48067,119.19367198496
+48321,159.270402676913
+48261,0.934195435305
+48445,55.0927818231802
+48075,33.7558560074375
+48071,139.981248218778
+48193,37.0107318789624
+48359,10.6114112613766
+48087,10.7423917313101
+48435,17.3574218164609
+48123,70.1223014760169
+48199,240.036598744171
+48061,1639.73577925071
+48101,5.6066602876753
+48153,24.6467518110874
+48353,66.9707468584668
+48079,12.8199671579157
+48155,5.15810435513359
+48301,0.543651639002778
+48307,34.2668871037546
+48219,95.3471020137342
+48285,96.2734979834425
+48335,45.6373019153331
+48085,3316.9242312106
+48315,46.1443105094859
+48021,337.638201284191
+48433,5.42990850945276
+48275,13.9559665438092
+48495,29.9335906789318
+48421,9.27802762206631
+48345,4.23504482348616
+48205,5.81990345447225
+48451,494.5433654668
+48115,61.5972111531327
+48145,71.0842283445548
+48383,14.7624385082401
+48351,49.4123588117963
+48467,208.691651435143
+48257,430.024676709493
+48479,1031.56410102759
+48159,32.1194559079663
+48357,41.6223536779506
+48499,188.938840412465
+48289,81.6660955191199
+48259,148.677052955774
+48347,304.329962384733
+48361,373.192758492786
+48129,15.4008897628803
+48069,29.5169981118819
+48191,12.8208482086591
+48323,219.117182654858
+48005,374.81070707874
+48223,144.183816934126
+48119,20.3940354206427
+48437,34.5281692012456
+48327,8.17628811097937
+48253,49.7151441766804
+48411,24.8755505787134
+48403,43.699048053813
+48453,5028.54678937231
+48329,597.472068004943
+48247,23.5294711426262
+48309,1069.84729405348
+48171,100.336470708064
+48099,301.887848602208
+48211,15.4139538677549
+48387,54.247731390955
+48117,79.400682962726
+48231,341.065965309777
+48043,41.8660147605749
+48229,13.6986780615728
+48287,67.3047734161022
+48023,14.8142182937296
+48355,1521.93941763604
+48487,56.1175088332266
+48485,632.560939343593
+48143,174.195243391022
+48209,833.538067139722
+48303,1304.08273694752
+48167,1420.50189348099
+48125,11.8324392657293
+48447,6.09885711892178
+48165,68.7737883177944
+48249,175.122267651015
+48173,4.22139575869186
+48457,93.1013325558802
+48443,3.8429555775194
+48489,98.0686172078074
+48037,410.30409625622
+48133,80.007271956058
+48441,644.103563466856
+48375,537.453295367134
+48169,32.993429358446
+48317,20.6958747392368
+48055,165.556764726162
+48189,159.686829144232
+48273,148.482694606139
+48395,64.5940763696807
+48407,133.513288612217
+48103,17.8958954769147
+48263,3.1165003527292
+48365,98.7187171087511
+48503,78.8766960874454
+48297,38.8947794545851
+48473,181.272897333699
+48455,58.1329990693368
+48471,364.590561786405
+48151,13.9163192603591
+48369,41.0552169814287
+48507,47.4670782095118
+48295,13.9494164370534
+48227,164.029651027502
+48183,648.129207082525
+48475,44.3237274742931
+48141,3457.4047824404
+48505,54.7257880799437
+48265,190.251858780494
+48187,501.794441971365
+48177,82.135211709582
+48393,3.40914641233746
+0,0
+49053,0
+49041,0
+49051,0
+49055,0
+49045,0
+49029,0
+49027,0
+49025,0
+49057,0
+49007,0
+49049,0
+49047,0
+49031,0
+49033,0
+49015,0
+49001,0
+49019,0
+49017,0
+49021,0
+49009,0
+49035,0
+49011,0
+49037,0
+49039,0
+49043,0
+49023,0
+49013,0
+49003,0
+49005,0
+51085,0
+51013,0
+51009,0
+51540,0
+51169,0
+51197,0
+51700,0
+51750,0
+51740,0
+51007,0
+51103,0
+51163,0
+51175,0
+51600,0
+51035,0
+51095,0
+51105,0
+51735,0
+51097,0
+51680,0
+51005,0
+51685,0
+51133,0
+51775,0
+51790,0
+51001,0
+51171,0
+51027,0
+51515,0
+51145,0
+51137,0
+51047,0
+51153,0
+51081,0
+51061,0
+51177,0
+51023,0
+51510,0
+51720,0
+51031,0
+51610,0
+51037,0
+51079,0
+51043,0
+51173,0
+51015,0
+51143,0
+51195,0
+51121,0
+51181,0
+51590,0
+51183,0
+51520,0
+51021,0
+51800,0
+51710,0
+51053,0
+51125,0
+51683,0
+51099,0
+51091,0
+51075,0
+51017,0
+51101,0
+51069,0
+51115,0
+51630,0
+51760,0
+51550,0
+51149,0
+51690,0
+51185,0
+51029,0
+51041,0
+51840,0
+51131,0
+51167,0
+51077,0
+51063,0
+51087,0
+51057,0
+51830,0
+51073,0
+51670,0
+51530,0
+51570,0
+51770,0
+51640,0
+51093,0
+51036,0
+51067,0
+51109,0
+51660,0
+51678,0
+51083,0
+51065,0
+51179,0
+51033,0
+51199,0
+51117,0
+51820,0
+51051,0
+51141,0
+51159,0
+51111,0
+51119,0
+51165,0
+51107,0
+51595,0
+51019,0
+51071,0
+51193,0
+51161,0
+51191,0
+51089,0
+51139,0
+51113,0
+51059,0
+51155,0
+51157,0
+51049,0
+51147,0
+51650,0
+51045,0
+51003,0
+51580,0
+51810,0
+51730,0
+51187,0
+51127,0
+51135,0
+51011,0
+51025,0
+51620,0
+0,0
+0,0
+0,0
+50005,0
+50007,0
+50001,0
+50019,0
+50025,0
+50009,0
+50027,0
+50015,0
+50013,0
+50003,0
+50021,0
+50011,0
+50017,0
+50023,0
+53063,0
+53065,0
+53073,0
+53051,0
+53033,0
+53003,0
+53015,0
+53047,0
+53031,0
+53069,0
+53001,0
+53029,0
+53013,0
+53049,0
+53011,0
+53039,0
+53075,0
+53077,0
+53053,0
+53071,0
+53059,0
+53067,0
+53057,0
+53043,0
+53019,0
+53009,0
+53045,0
+53041,0
+53005,0
+53037,0
+53055,0
+53017,0
+53007,0
+53025,0
+53035,0
+53061,0
+53021,0
+53027,0
+53023,0
+55129,0
+55067,0
+55053,0
+55049,0
+55013,0
+55073,0
+55041,0
+55089,0
+55015,0
+55085,0
+55001,0
+55105,0
+55037,0
+55087,0
+55101,0
+55051,0
+55071,0
+55099,0
+55127,0
+55137,0
+55061,0
+55039,0
+55081,0
+55003,0
+55111,0
+55009,0
+55103,0
+55011,0
+55005,0
+55121,0
+55091,0
+55125,0
+55117,0
+55093,0
+55019,0
+55017,0
+55141,0
+55133,0
+55055,0
+55083,0
+55139,0
+55035,0
+55069,0
+55029,0
+55057,0
+55063,0
+55115,0
+55023,0
+55075,0
+55065,0
+55078,0
+55109,0
+55045,0
+55047,0
+55027,0
+55135,0
+55021,0
+55095,0
+55077,0
+55119,0
+55113,0
+55033,0
+55043,0
+55025,0
+55123,0
+55097,0
+55031,0
+55131,0
+55007,0
+55107,0
+55079,0
+55059,0
+54009,0
+54091,0
+54065,0
+54021,0
+54083,0
+54051,0
+54047,0
+54017,0
+54105,0
+54019,0
+54025,0
+54057,0
+54109,0
+54007,0
+54039,0
+54043,0
+54003,0
+54029,0
+54085,0
+54031,0
+54023,0
+54053,0
+54103,0
+54107,0
+54069,0
+54013,0
+54099,0
+54045,0
+54063,0
+54077,0
+54037,0
+54059,0
+54071,0
+54035,0
+54093,0
+54055,0
+54011,0
+54095,0
+54001,0
+54005,0
+54073,0
+54041,0
+54081,0
+54033,0
+54027,0
+54049,0
+54079,0
+54087,0
+54097,0
+54015,0
+54067,0
+54075,0
+54061,0
+54089,0
+54101,0
+56031,0
+56001,0
+56005,0
+56029,0
+56045,0
+56039,0
+56035,0
+56023,0
+56033,0
+56019,0
+56015,0
+56013,0
+56003,0
+56027,0
+56041,0
+56017,0
+56025,0
+56043,0
+56009,0
+56011,0
+56007,0
+56021,0
+56037,0
