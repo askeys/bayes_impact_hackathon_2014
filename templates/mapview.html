@@ -1,0 +1,220 @@
+
+{% extends "base.html" %}
+<!-- based on http://bl.ocks.org/mbostock/4060606 -->
+<!-- based on http://suffenus.wordpress.com/2014/01/07/making-interactive-maps-with-d3-for-total-beginners/ -->
+{% block title %} Labor Violoations {% endblock %}
+
+{% block styles %}
+<style>
+ 
+path {
+ stroke:white;
+ stroke-width: 1px;
+}
+ 
+body {
+ font-family: Arial, sans-serif;
+}
+ 
+.city {
+ font: 10px sans-serif;
+ font-weight: bold;
+}
+ 
+.legend {
+ font-size: 12px;
+}
+ 
+div.tooltip {
+ position: absolute;
+ text-align: center;
+ width: 250px;
+ height: 75px;
+ padding: 2px;
+ font-size: 12px;
+ background: #FFFFE0;
+ border: 1px;
+ border-radius: 2px;
+ pointer-events: none;
+}
+
+</style>
+{% endblock %}
+
+{% block nav_items %}
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+        <b>Industry:</b> {{industry}}
+        <span class="caret"></span>
+        <ul class="dropdown-menu" role="menu">
+            {%- for item in industry_list %}
+            <li role="presentation"><a role="menuitem" tabindex="-1" href='index.html?metric={{metric}}&industry={{item}}&year={{year}}'>{{item}}</a></li>
+            {%- endfor %}
+        </ul>
+    </a>
+  </li>
+  <li role="presentation" class="dropdown" class="active">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+        <b>Metric:</b> {{metric}}
+        <span class="caret"></span>
+        <ul class="dropdown-menu" role="menu">
+            {%- for item in metric_list %}
+            <li role="presentation"><a role="menuitem" tabindex="-1" href='index.html?metric={{item}}&industry={{industry}}&year={{year}}'>{{item}}</a></li>
+            {%- endfor %}
+        </ul>
+    </a>
+  </li>
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+        <b>Year:</b> {{year}}
+        <span class="caret"></span>
+        <ul class="dropdown-menu" role="menu">
+            {%- for item in year_list %}
+            <li role="presentation"><a role="menuitem" tabindex="-1" href='index.html?metric={{metric}}&industry={{industry}}&year={{item}}'>{{item}}</a></li>
+            {%- endfor %}
+        </ul>
+    </a>
+  </li>
+  <li class="inactive">
+    <a id="about_tab" href="about.html">
+     About
+    </a>
+  </li>
+{% endblock %}
+
+{% block content %}
+<center>
+    <h2> {{title}} </h1>
+</center>
+{% endblock %}
+
+{% block scripts %}
+<script src="js/d3.v3.min.js"></script>
+<script src="js/queue.v1.min.js"></script>
+<script src="js/topojson.v1.min.js"></script>
+<script src="js/wagetooltip.js"></script>
+<script src="js/colorbrewer.js"></script>
+<script>
+
+ $("#spinner").show();
+
+ var width = 960,
+ height = 500;
+
+ var min = wagedata.scale["{{metric}}"]["{{industry}}"]["{{year}}"]["min"];
+ var max = wagedata.scale["{{metric}}"]["{{industry}}"]["{{year}}"]["max"];
+
+ max = max*0.05
+
+ var color_domain = [];
+ var ext_color_domain = [];
+ var legend_labels = [];
+ var delta = (max-min)/11.0/2.0;
+ for (var f = min; f <= max; f += (max-min)/11.0) {
+   color_domain.push(f);
+   ext_color_domain.push(f + delta)
+   legend_labels.push(f.toFixed(2).toString())
+ }
+ ext_color_domain.pop(max)
+ legend_labels.pop(max.toFixed(2).toString())
+
+
+ var color = d3.scale.threshold()
+ .domain(color_domain)
+ .range(colorbrewer.RdBu[11].reverse())
+
+ //.range(["#dcdcdc", "#d0d6cd", "#bdc9be", "#aabdaf", "#97b0a0", "#84a491", "#719782", "#5e8b73", "#4b7e64", "#387255", "#256546", "#125937", "#004d28"]);
+ 
+var div = d3.select("body").append("div")
+ .attr("class", "tooltip")
+ .style("opacity", 0);
+ 
+var svg = d3.select("body").append("svg")
+ .attr("width", width)
+ .attr("height", height)
+ .style("margin", "10px auto");
+ var path = d3.geo.path()
+
+queue()
+ .defer(d3.json, "data/us.json")
+ .defer(d3.csv, "data/metric={{metric}}+industry={{industry}}+year={{year}}.csv")
+ .await(ready);
+ 
+function ready(error, us, data) {
+
+  $("#spinner").show();
+
+  var pairRateWithId = {};
+  var pairNameWithId = {};
+
+  for (var i=0; i<wagetooltip.data.length; i++) {
+    var code_fixed = wagetooltip.data[i]['code'];
+    while (code_fixed[0] == '0') {
+      code_fixed = code_fixed.substr(1);
+    }
+    pairNameWithId[code_fixed] = "<p>County: " + wagetooltip.data[i]['County'] + '</p>'
+                '<p>Total Population: ' + wagetooltip.data[i]['TotalPop'] + '</p>'
+                '<p>Working Age (18-65): ' + wagetooltip.data[i]['pctWorking'] + '%</p>'
+                '<p>Foreign Born: ' + wagetooltip.data[i]['pctForeign'] + '%</p>'
+                '<p>percent Born: ' + wagetooltip.data[i]['pctForeign'] + '%</p>'
+  }
+
+  data.forEach(function(d) {
+   //pairRateWithId[d.id] = Math.log(+d.rate);
+   pairRateWithId[d.id] = +d.rate;
+   //pairNameWithId[d.id] = d.name;
+   });
+   svg.append("g")
+   .attr("class", "county")
+   .selectAll("path")
+   .data(topojson.feature(us, us.objects.counties).features)
+   .enter().append("path")
+   .attr("d", path)
+   .style ( "fill" , function (d) {
+   return color (pairRateWithId[d.id]);
+   })
+   .style("opacity", 0.8)
+   .on("mouseover", function(d) {
+   d3.select(this).transition().duration(300).style("opacity", 1);
+   div.transition().duration(300)
+   .style("opacity", 1)
+   div.html("<p>{{metric}} : " + pairRateWithId[d.id] + '</p>' + pairNameWithId[d.id])
+   .style("left", (d3.event.pageX) + "px")
+   .style("top", (d3.event.pageY -30) + "px");
+   })
+   .on("mouseout", function() {
+   d3.select(this)
+   .transition().duration(300)
+   .style("opacity", 0.8);
+   div.transition().duration(300)
+   .style("opacity", 0);
+   })
+
+   $("#spinner").hide();
+};
+ 
+var legend = svg.selectAll("g.legend")
+ .data(ext_color_domain)
+ .enter().append("g")
+ .attr("class", "legend");
+ 
+var ls_w = 20, ls_h = 20;
+ 
+legend.append("rect")
+ .attr("x", 20)
+ .attr("y", function(d, i){ return height - (i*ls_h) - 2*ls_h;})
+ .attr("width", ls_w)
+ .attr("height", ls_h)
+ .style("fill", function(d, i) { return color(d); })
+ .style("opacity", 0.8);
+ 
+legend.append("text")
+ .attr("x", 50)
+ .attr("y", function(d, i){ return height - (i*ls_h) - ls_h - 4;})
+ .text(function(d, i){ return legend_labels[i]; });
+
+</script>
+
+{% endblock %}
+
+
