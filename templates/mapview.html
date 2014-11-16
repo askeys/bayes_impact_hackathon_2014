@@ -156,9 +156,9 @@ function ready(error, us, data) {
     }
     pairNameWithId[code_fixed] = " County: " + wagetooltip.data[i]['County'] + '<br>' +
                 'Total Population: ' + wagetooltip.data[i]['TotalPop'] + '<br>' +
-                'Working Age (18-65): ' + wagetooltip.data[i]['pctWorking'] + '%<br>' +
-                'Foreign Born: ' + wagetooltip.data[i]['pctForeign'] + '%<br>' +
-                'Percent Below Poverty Line: ' + wagetooltip.data[i]['pctForeign'] + '%</p>'
+                'Working Age (18-65): ' + wagetooltip.data[i]['pctWorking'].split('.')[0] + '%<br>' +
+                'Foreign Born: ' + wagetooltip.data[i]['pctForeign'].split('.')[0] + '%<br>' +
+                'Percent Below Poverty Line: ' + wagetooltip.data[i]['pctPoor'].split('.')[0] + '%</p>'
   }
 
   data.forEach(function(d) {
