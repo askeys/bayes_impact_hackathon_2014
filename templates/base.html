@@ -1,0 +1,72 @@
+
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta content="utf-8" http-equiv="encoding">  
+    <title> {% block title %} {% endblock %}  </title>
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/2.1.0/es5-shim.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href='css/bootstrap.css'>
+
+    <style>
+        .spinner {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            margin-left: -50px; /* half width of the spinner gif */
+            margin-top: -50px; /* half height of the spinner gif */
+            text-align:center;
+            z-index:1234;
+            overflow: auto;
+            width: 100px; /* width of the spinner gif */
+            height: 102px; /*hight of the spinner gif +2px to fix IE8 issue */
+        }
+
+
+        .navbar {
+          border-radius: 0px;
+        }
+
+        .navbar-inverse {
+          background-color: #053C57;
+        }
+
+    </style>
+    {% block styles %} {% endblock %}
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse">
+      <ul class="nav navbar-nav">
+        <li class="inactive">
+          <a id="main_tab" class="navbar-brand" href="index.html">
+            Wage Violations By County
+          </a>
+        </li>
+        {% block nav_items %} {% endblock %} 
+      </ul>
+    </div>
+    
+    <div id="spinner" class="spinner" style="display:none;">
+        <img id="img-spinner" src="img/spinner.gif" height='50px' width='50px' alt="Loading"/>
+    </div>
+
+    <div class="container-fluid">
+
+    {% block content %} {% endblock %}
+
+     </div>
+
+    </body>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    {% block scripts %} {% endblock %}
+
+</html>
