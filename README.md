@@ -51,6 +51,6 @@ Our visualization identifies investigation areas in further detail by the county
 * For example, do wage violations increase during recessions or after natural disasters?
 
 
-Presentation
+## Presentation
 
 Can be found at: http://www.slideshare.net/scfernandez/bayes-hack-wage-presentationeditted
