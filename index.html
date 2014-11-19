@@ -1,0 +1,72 @@
+<div id="result" > </div>
+
+<script src="js/nunjucks.js"></script>
+<script src="js/wagedata.js"></script>
+<script src="js/jquery.min.js"></script>
+
+<script>
+
+  function getQueryParams(qs) {
+      qs = qs.split("+").join(" ");
+
+      var params = {}, tokens,
+          re = /[?&]?([^=]+)=([^&]*)/g;
+
+      while (tokens = re.exec(qs)) {
+          params[decodeURIComponent(tokens[1])]
+              = decodeURIComponent(tokens[2]);
+      }
+      return params;
+  }
+
+  function toTitleCase(str)
+  {
+      for (var i=0; i<10; i++) {
+          str = str.replace('_', ' ')
+      }
+      return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+  }
+
+  $( document ).ready(function() {
+
+      nunjucks.configure({ autoescape: false });
+      nunjucks.configure('templates');
+
+      var params = getQueryParams(document.location.search)
+      var industry = params['industry']
+      var metric = params['metric']
+      var year = params['year']
+
+      if (!industry) {
+          industry = wagedata.industry_list[0];
+      }
+      if (!metric) {
+          metric = wagedata.metric_list[0];
+      }
+      if (!year) {
+          year = "2013";
+      }
+
+      if (metric.indexOf('Forecasted') >= 0) {
+          if (year != "2014") {
+            year = "2015"
+          }
+      }
+      else if (year > "2013") {
+        year = "2013"
+      }
+
+      var title = toTitleCase(metric) + " for " + toTitleCase(industry) + " for Year " + year
+      var res = nunjucks.render('mapview.html', 
+          {industry_list:wagedata.industry_list
+            , industry:industry
+            , metric_list:wagedata.metric_list
+            , metric:metric
+            , year_list:wagedata.year_list, year:year
+            , title:title
+          });
+
+      $('#result').html(res)
+
+  });
+</script>
